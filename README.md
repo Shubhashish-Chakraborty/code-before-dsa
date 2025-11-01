@@ -1,53 +1,27 @@
-# Code Before DSA — The Ultimate Logic Warm-Up Series
+# Code Before DSA: The Ultimate Logic WarmUp Archive before you dive into DSA!
 
-> 🚀 **Strengthen your logic, problem-solving, and programming fundamentals before diving into Data Structures & Algorithms!**
+> 🚀 **Strengthen your logic, problem-solving, and programming fundamentals before diving into DATA STRUCTURE & ALGORITHMS!**
 
-Welcome to **Code Before DSA** — a comprehensive YouTube series where I, **Shubhashish Chakraborty**, solve 100–150 beginner-level coding and logic-building problems. Each problem comes with a clear explanation, multiple language solutions, and an accompanying YouTube video to help you build a solid foundation.
+Welcome to **Code Before DSA** - a comprehensive YouTube series where I, **[Shubhashish Chakraborty](https://imshubh.site)**, solve 100–150 beginner/intermediate-level coding and logic-building problems. Each problem comes with a clear explanation, multiple language solutions *(intially on C++ only!)*, and an accompanying YouTube video to help you build a solid foundation.
 
 ## 📺 Watch the Series
 
-Watch the complete series here → [YouTube Playlist](https://youtube.com/@shubhdevs)
+### Watch the complete series here on **[ShubhDEVs](https://youtube.com/@shubhdevs)** → **[YouTube Playlist](https://youtube.com/@shubhdevs)**
 
 ## 🎯 About This Repository
 
 This repository is designed to help beginners:
 
-- ✅ **Master Core Programming Fundamentals** — Build strong logic and problem-solving skills
-- ✅ **Practice Before DSA** — Strengthen conditionals, loops, arrays, and basic algorithms
-- ✅ **Learn Multiple Languages** — Solutions provided in C++, Python, Java, and more
-- ✅ **Follow Along with Videos** — Each problem has a detailed YouTube explanation
+- ✅ **Master Core Programming Fundamentals**: Build strong logic and problem-solving skills
+- ✅ **Practice Before DSA**: Strengthen conditionals, loops, arrays, and basic algorithms, and many more...
+- ✅ **Learn Multiple Languages**: Solutions provided in C++, Python, Java, and more..
+- ✅ **Follow Along with Videos**: Each problem has a detailed YouTube explanation..!
 
-Each problem in this series includes:
-- 📝 Clear problem description and examples
-- 💻 Solutions in multiple programming languages
-- 🎥 Step-by-step video explanations
-- 💡 Tips and best practices
-
-## 🛡️ Badges
-
-![Repo Size](https://img.shields.io/github/repo-size/Shubhashish-Chakraborty/code-before-dsa?style=flat-square&label=Repo%20Size)
-![Languages](https://img.shields.io/github/languages/count/Shubhashish-Chakraborty/code-before-dsa?style=flat-square&label=Languages)
-![Problems](https://img.shields.io/badge/Problems-50+-blue?style=flat-square)
-![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen?style=flat-square)
-
-## 📁 Repository Structure
-
-```
-code-before-dsa/
-├── problems/           # All questions and problem descriptions
-├── solutions/          # Organized solutions by language
-│   ├── cpp/           # C++ solutions
-│   ├── python/        # Python solutions
-│   ├── java/          # Java solutions
-│   └── javascript/    # JavaScript solutions
-├── assets/             # Thumbnails or visuals (if needed)
-└── summaries/          # Written explanations or notes
-```
 
 ## 🚀 How to Use
 
 1. **Browse Problems** 📚
-   - Navigate to the `/problems` directory
+   - Navigate to the **[problems](./problems/README.md)** directory
    - Read through the problem list in `problems/README.md`
    - Choose a problem that interests you
 

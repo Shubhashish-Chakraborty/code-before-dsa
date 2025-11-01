@@ -1,61 +1,61 @@
-# Code Before DSA — Problem Index
+# Code Before DSA - Problem Archive!!
 
 This is the complete list of problems in the **Code Before DSA** series. Each problem helps you strengthen your logic, conditionals, loops, arrays, and core programming fundamentals before entering Data Structures & Algorithms.
 
 ## 📚 All Problems
 
-| No. | Problem Name | Problem Link | Solution | YouTube Video |
+| No. | Problem Name | Problem Link | Solution | YouTube Explanation Video |
 |-----|--------------|--------------|----------|---------------|
-| 1 | Determining Even/Odd Numbers | [View Problem](#1-determining-evenodd-numbers) | C++, Python, Java | [Watch](https://youtube.com/@shubhdevs) |
-| 2 | Checking for Prime Numbers | [View Problem](#2-checking-for-prime-numbers) | C++, Python, Java | [Watch](https://youtube.com/@shubhdevs) |
-| 3 | Validating Leap Years | [View Problem](#3-validating-leap-years) | C++, Python | [Watch](https://youtube.com/@shubhdevs) |
-| 4 | Calculating Armstrong Numbers | [View Problem](#4-calculating-armstrong-numbers) | C++, Python, Java | [Watch](https://youtube.com/@shubhdevs) |
-| 5 | Generating the Fibonacci Series | [View Problem](#5-generating-the-fibonacci-series) | C++, Python, Java | [Watch](https://youtube.com/@shubhdevs) |
-| 6 | Identifying Palindromes | [View Problem](#6-identifying-palindromes) | C++, Python | [Watch](https://youtube.com/@shubhdevs) |
-| 7 | Crafting Star Patterns | [View Problem](#7-crafting-star-patterns) | C++, Python | [Watch](https://youtube.com/@shubhdevs) |
-| 8 | Finding the Factorial of a Number | [View Problem](#8-finding-the-factorial-of-a-number) | C++, Python, Java | [Watch](https://youtube.com/@shubhdevs) |
-| 9 | Summing Digits of a Number | [View Problem](#9-summing-digits-of-a-number) | C++, Python | [Watch](https://youtube.com/@shubhdevs) |
-| 10 | Finding the Greatest Common Divisor (GCD) | [View Problem](#10-finding-the-greatest-common-divisor-gcd) | C++, Python, Java | [Watch](https://youtube.com/@shubhdevs) |
-| 11 | Finding the Least Common Multiple (LCM) | [View Problem](#11-finding-the-least-common-multiple-lcm) | C++, Python, Java | [Watch](https://youtube.com/@shubhdevs) |
-| 12 | Counting Vowels and Consonants in a String | [View Problem](#12-counting-vowels-and-consonants-in-a-string) | C++, Python | [Watch](https://youtube.com/@shubhdevs) |
-| 13 | Reversing a String | [View Problem](#13-reversing-a-string) | C++, Python, Java | [Watch](https://youtube.com/@shubhdevs) |
-| 14 | Finding the Largest and Smallest Numbers in an Array | [View Problem](#14-finding-the-largest-and-smallest-numbers-in-an-array) | C++, Python, Java | [Watch](https://youtube.com/@shubhdevs) |
-| 15 | Sorting an Array | [View Problem](#15-sorting-an-array) | C++, Python, Java | [Watch](https://youtube.com/@shubhdevs) |
-| 16 | Finding the Sum of Elements in an Array | [View Problem](#16-finding-the-sum-of-elements-in-an-array) | C++, Python, Java | [Watch](https://youtube.com/@shubhdevs) |
-| 17 | Checking for Armstrong Numbers in a Range | [View Problem](#17-checking-for-armstrong-numbers-in-a-range) | C++, Python | [Watch](https://youtube.com/@shubhdevs) |
-| 18 | Generating Multiplication Tables | [View Problem](#18-generating-multiplication-tables) | C++, Python | [Watch](https://youtube.com/@shubhdevs) |
-| 19 | Finding Prime Numbers in a Range | [View Problem](#19-finding-prime-numbers-in-a-range) | C++, Python | [Watch](https://youtube.com/@shubhdevs) |
-| 20 | Checking for Perfect Numbers | [View Problem](#20-checking-for-perfect-numbers) | C++, Python | [Watch](https://youtube.com/@shubhdevs) |
-| 21 | Calculating the Sum of Even Numbers in a Range | [View Problem](#21-calculating-the-sum-of-even-numbers-in-a-range) | C++, Python | [Watch](https://youtube.com/@shubhdevs) |
-| 22 | Calculating the Sum of Odd Numbers in a Range | [View Problem](#22-calculating-the-sum-of-odd-numbers-in-a-range) | C++, Python | [Watch](https://youtube.com/@shubhdevs) |
-| 23 | Finding the Fibonacci Number at a Specific Position | [View Problem](#23-finding-the-fibonacci-number-at-a-specific-position) | C++, Python, Java | [Watch](https://youtube.com/@shubhdevs) |
-| 24 | Printing Prime Numbers Less Than a Given Number | [View Problem](#24-printing-prime-numbers-less-than-a-given-number) | C++, Python | [Watch](https://youtube.com/@shubhdevs) |
-| 25 | Finding the Number of Digits in a Number | [View Problem](#25-finding-the-number-of-digits-in-a-number) | C++, Python | [Watch](https://youtube.com/@shubhdevs) |
-| 26 | Checking if a Number is a Narcissistic Number | [View Problem](#26-checking-if-a-number-is-a-narcissistic-number) | C++, Python | [Watch](https://youtube.com/@shubhdevs) |
-| 27 | Generating a Pattern of Numbers | [View Problem](#27-generating-a-pattern-of-numbers) | C++, Python | [Watch](https://youtube.com/@shubhdevs) |
-| 28 | Finding the Sum of the Digits of the Factorial of a Number | [View Problem](#28-finding-the-sum-of-the-digits-of-the-factorial-of-a-number) | C++, Python | [Watch](https://youtube.com/@shubhdevs) |
-| 29 | Finding the Largest Palindrome in a String | [View Problem](#29-finding-the-largest-palindrome-in-a-string) | C++, Python | [Watch](https://youtube.com/@shubhdevs) |
-| 30 | Finding Missing Numbers in a Sequence | [View Problem](#30-finding-missing-numbers-in-a-sequence) | C++, Python, Java | [Watch](https://youtube.com/@shubhdevs) |
-| 31 | Generating a Pascal's Triangle | [View Problem](#31-generating-a-pascals-triangle) | C++, Python | [Watch](https://youtube.com/@shubhdevs) |
-| 32 | Finding the Median of an Array | [View Problem](#32-finding-the-median-of-an-array) | C++, Python, Java | [Watch](https://youtube.com/@shubhdevs) |
-| 33 | Calculating the Power of a Number | [View Problem](#33-calculating-the-power-of-a-number) | C++, Python, Java | [Watch](https://youtube.com/@shubhdevs) |
-| 34 | Checking for an Anagram | [View Problem](#34-checking-for-an-anagram) | C++, Python, Java | [Watch](https://youtube.com/@shubhdevs) |
-| 35 | Finding the Sum of Prime Numbers in a Range | [View Problem](#35-finding-the-sum-of-prime-numbers-in-a-range) | C++, Python | [Watch](https://youtube.com/@shubhdevs) |
-| 36 | Finding the N-th Triangular Number | [View Problem](#36-finding-the-n-th-triangular-number) | C++, Python | [Watch](https://youtube.com/@shubhdevs) |
-| 37 | Checking for Perfect Squares | [View Problem](#37-checking-for-perfect-squares) | C++, Python | [Watch](https://youtube.com/@shubhdevs) |
-| 38 | Finding the Sum of Squares of Digits | [View Problem](#38-finding-the-sum-of-squares-of-digits) | C++, Python | [Watch](https://youtube.com/@shubhdevs) |
-| 39 | Generating a Square Matrix of a Given Size | [View Problem](#39-generating-a-square-matrix-of-a-given-size) | C++, Python | [Watch](https://youtube.com/@shubhdevs) |
-| 40 | Calculating the Sum of Digits of a Number Until Single Digit | [View Problem](#40-calculating-the-sum-of-digits-of-a-number-until-single-digit) | C++, Python | [Watch](https://youtube.com/@shubhdevs) |
-| 41 | Finding the Count of Specific Digits in a Number | [View Problem](#41-finding-the-count-of-specific-digits-in-a-number) | C++, Python | [Watch](https://youtube.com/@shubhdevs) |
-| 42 | Generating a Fibonacci Sequence Using Recursion | [View Problem](#42-generating-a-fibonacci-sequence-using-recursion) | C++, Python, Java | [Watch](https://youtube.com/@shubhdevs) |
-| 43 | Finding All Divisors of a Number | [View Problem](#43-finding-all-divisors-of-a-number) | C++, Python | [Watch](https://youtube.com/@shubhdevs) |
-| 44 | Finding the Average of Numbers in an Array | [View Problem](#44-finding-the-average-of-numbers-in-an-array) | C++, Python, Java | [Watch](https://youtube.com/@shubhdevs) |
-| 45 | Finding the Mode of Numbers in an Array | [View Problem](#45-finding-the-mode-of-numbers-in-an-array) | C++, Python, Java | [Watch](https://youtube.com/@shubhdevs) |
-| 46 | Determining the Length of a String Without Using Built-In Functions | [View Problem](#46-determining-the-length-of-a-string-without-using-built-in-functions) | C++, Python | [Watch](https://youtube.com/@shubhdevs) |
-| 47 | Generating a Number Pyramid | [View Problem](#47-generating-a-number-pyramid) | C++, Python | [Watch](https://youtube.com/@shubhdevs) |
-| 48 | Finding the Sum of Prime Factors of a Number | [View Problem](#48-finding-the-sum-of-prime-factors-of-a-number) | C++, Python | [Watch](https://youtube.com/@shubhdevs) |
-| 49 | Finding the Second Largest Number in an Array | [View Problem](#49-finding-the-second-largest-number-in-an-array) | C++, Python, Java | [Watch](https://youtube.com/@shubhdevs) |
-| 50 | Finding the Longest Substring Without Repeating Characters | [View Problem](#50-finding-the-longest-substring-without-repeating-characters) | C++, Python, Java | [Watch](https://youtube.com/@shubhdevs) |
+| 1 | Determining Even/Odd Numbers | [View Problem](#1-determining-evenodd-numbers) | **[C++](../solutions/cpp/001_evenOdd.cpp)** | [Watch](https://youtube.com/@shubhdevs) |
+| 2 | Checking for Prime Numbers | [View Problem](#2-checking-for-prime-numbers) |  | [Watch](https://youtube.com/@shubhdevs) |
+| 3 | Validating Leap Years | [View Problem](#3-validating-leap-years) |  | [Watch](https://youtube.com/@shubhdevs) |
+| 4 | Calculating Armstrong Numbers | [View Problem](#4-calculating-armstrong-numbers) |  | [Watch](https://youtube.com/@shubhdevs) |
+| 5 | Generating the Fibonacci Series | [View Problem](#5-generating-the-fibonacci-series) |  | [Watch](https://youtube.com/@shubhdevs) |
+| 6 | Identifying Palindromes | [View Problem](#6-identifying-palindromes) |  | [Watch](https://youtube.com/@shubhdevs) |
+| 7 | Crafting Star Patterns | [View Problem](#7-crafting-star-patterns) |  | [Watch](https://youtube.com/@shubhdevs) |
+| 8 | Finding the Factorial of a Number | [View Problem](#8-finding-the-factorial-of-a-number) |  | [Watch](https://youtube.com/@shubhdevs) |
+| 9 | Summing Digits of a Number | [View Problem](#9-summing-digits-of-a-number) |  | [Watch](https://youtube.com/@shubhdevs) |
+| 10 | Finding the Greatest Common Divisor (GCD) | [View Problem](#10-finding-the-greatest-common-divisor-gcd) |  | [Watch](https://youtube.com/@shubhdevs) |
+| 11 | Finding the Least Common Multiple (LCM) | [View Problem](#11-finding-the-least-common-multiple-lcm) |  | [Watch](https://youtube.com/@shubhdevs) |
+| 12 | Counting Vowels and Consonants in a String | [View Problem](#12-counting-vowels-and-consonants-in-a-string) |  | [Watch](https://youtube.com/@shubhdevs) |
+| 13 | Reversing a String | [View Problem](#13-reversing-a-string) |  | [Watch](https://youtube.com/@shubhdevs) |
+| 14 | Finding the Largest and Smallest Numbers in an Array | [View Problem](#14-finding-the-largest-and-smallest-numbers-in-an-array) |  | [Watch](https://youtube.com/@shubhdevs) |
+| 15 | Sorting an Array | [View Problem](#15-sorting-an-array) |  | [Watch](https://youtube.com/@shubhdevs) |
+| 16 | Finding the Sum of Elements in an Array | [View Problem](#16-finding-the-sum-of-elements-in-an-array) |  | [Watch](https://youtube.com/@shubhdevs) |
+| 17 | Checking for Armstrong Numbers in a Range | [View Problem](#17-checking-for-armstrong-numbers-in-a-range) |  | [Watch](https://youtube.com/@shubhdevs) |
+| 18 | Generating Multiplication Tables | [View Problem](#18-generating-multiplication-tables) |  | [Watch](https://youtube.com/@shubhdevs) |
+| 19 | Finding Prime Numbers in a Range | [View Problem](#19-finding-prime-numbers-in-a-range) |  | [Watch](https://youtube.com/@shubhdevs) |
+| 20 | Checking for Perfect Numbers | [View Problem](#20-checking-for-perfect-numbers) |  | [Watch](https://youtube.com/@shubhdevs) |
+| 21 | Calculating the Sum of Even Numbers in a Range | [View Problem](#21-calculating-the-sum-of-even-numbers-in-a-range) |  | [Watch](https://youtube.com/@shubhdevs) |
+| 22 | Calculating the Sum of Odd Numbers in a Range | [View Problem](#22-calculating-the-sum-of-odd-numbers-in-a-range) |  | [Watch](https://youtube.com/@shubhdevs) |
+| 23 | Finding the Fibonacci Number at a Specific Position | [View Problem](#23-finding-the-fibonacci-number-at-a-specific-position) |  | [Watch](https://youtube.com/@shubhdevs) |
+| 24 | Printing Prime Numbers Less Than a Given Number | [View Problem](#24-printing-prime-numbers-less-than-a-given-number) |  | [Watch](https://youtube.com/@shubhdevs) |
+| 25 | Finding the Number of Digits in a Number | [View Problem](#25-finding-the-number-of-digits-in-a-number) |  | [Watch](https://youtube.com/@shubhdevs) |
+| 26 | Checking if a Number is a Narcissistic Number | [View Problem](#26-checking-if-a-number-is-a-narcissistic-number) |  | [Watch](https://youtube.com/@shubhdevs) |
+| 27 | Generating a Pattern of Numbers | [View Problem](#27-generating-a-pattern-of-numbers) |  | [Watch](https://youtube.com/@shubhdevs) |
+| 28 | Finding the Sum of the Digits of the Factorial of a Number | [View Problem](#28-finding-the-sum-of-the-digits-of-the-factorial-of-a-number) |  | [Watch](https://youtube.com/@shubhdevs) |
+| 29 | Finding the Largest Palindrome in a String | [View Problem](#29-finding-the-largest-palindrome-in-a-string) |  | [Watch](https://youtube.com/@shubhdevs) |
+| 30 | Finding Missing Numbers in a Sequence | [View Problem](#30-finding-missing-numbers-in-a-sequence) |  | [Watch](https://youtube.com/@shubhdevs) |
+| 31 | Generating a Pascal's Triangle | [View Problem](#31-generating-a-pascals-triangle) |  | [Watch](https://youtube.com/@shubhdevs) |
+| 32 | Finding the Median of an Array | [View Problem](#32-finding-the-median-of-an-array) |  | [Watch](https://youtube.com/@shubhdevs) |
+| 33 | Calculating the Power of a Number | [View Problem](#33-calculating-the-power-of-a-number) |  | [Watch](https://youtube.com/@shubhdevs) |
+| 34 | Checking for an Anagram | [View Problem](#34-checking-for-an-anagram) |  | [Watch](https://youtube.com/@shubhdevs) |
+| 35 | Finding the Sum of Prime Numbers in a Range | [View Problem](#35-finding-the-sum-of-prime-numbers-in-a-range) |  | [Watch](https://youtube.com/@shubhdevs) |
+| 36 | Finding the N-th Triangular Number | [View Problem](#36-finding-the-n-th-triangular-number) |  | [Watch](https://youtube.com/@shubhdevs) |
+| 37 | Checking for Perfect Squares | [View Problem](#37-checking-for-perfect-squares) |  | [Watch](https://youtube.com/@shubhdevs) |
+| 38 | Finding the Sum of Squares of Digits | [View Problem](#38-finding-the-sum-of-squares-of-digits) |  | [Watch](https://youtube.com/@shubhdevs) |
+| 39 | Generating a Square Matrix of a Given Size | [View Problem](#39-generating-a-square-matrix-of-a-given-size) |  | [Watch](https://youtube.com/@shubhdevs) |
+| 40 | Calculating the Sum of Digits of a Number Until Single Digit | [View Problem](#40-calculating-the-sum-of-digits-of-a-number-until-single-digit) |  | [Watch](https://youtube.com/@shubhdevs) |
+| 41 | Finding the Count of Specific Digits in a Number | [View Problem](#41-finding-the-count-of-specific-digits-in-a-number) |  | [Watch](https://youtube.com/@shubhdevs) |
+| 42 | Generating a Fibonacci Sequence Using Recursion | [View Problem](#42-generating-a-fibonacci-sequence-using-recursion) |  | [Watch](https://youtube.com/@shubhdevs) |
+| 43 | Finding All Divisors of a Number | [View Problem](#43-finding-all-divisors-of-a-number) |  | [Watch](https://youtube.com/@shubhdevs) |
+| 44 | Finding the Average of Numbers in an Array | [View Problem](#44-finding-the-average-of-numbers-in-an-array) |  | [Watch](https://youtube.com/@shubhdevs) |
+| 45 | Finding the Mode of Numbers in an Array | [View Problem](#45-finding-the-mode-of-numbers-in-an-array) |  | [Watch](https://youtube.com/@shubhdevs) |
+| 46 | Determining the Length of a String Without Using Built-In Functions | [View Problem](#46-determining-the-length-of-a-string-without-using-built-in-functions) |  | [Watch](https://youtube.com/@shubhdevs) |
+| 47 | Generating a Number Pyramid | [View Problem](#47-generating-a-number-pyramid) |  | [Watch](https://youtube.com/@shubhdevs) |
+| 48 | Finding the Sum of Prime Factors of a Number | [View Problem](#48-finding-the-sum-of-prime-factors-of-a-number) |  | [Watch](https://youtube.com/@shubhdevs) |
+| 49 | Finding the Second Largest Number in an Array | [View Problem](#49-finding-the-second-largest-number-in-an-array) |  | [Watch](https://youtube.com/@shubhdevs) |
+| 50 | Finding the Longest Substring Without Repeating Characters | [View Problem](#50-finding-the-longest-substring-without-repeating-characters) |  | [Watch](https://youtube.com/@shubhdevs) |
 
 ## 📂 Problems by Category
 
@@ -64,20 +64,20 @@ This is the complete list of problems in the **Code Before DSA** series. Each pr
 
 | No. | Problem Name | Solution | YouTube Video |
 |-----|--------------|----------|---------------|
-| 1 | Determining Even/Odd Numbers | C++, Python, Java | [Watch](https://youtube.com/@shubhdevs) |
-| 3 | Validating Leap Years | C++, Python | [Watch](https://youtube.com/@shubhdevs) |
-| 8 | Finding the Factorial of a Number | C++, Python, Java | [Watch](https://youtube.com/@shubhdevs) |
-| 9 | Summing Digits of a Number | C++, Python | [Watch](https://youtube.com/@shubhdevs) |
-| 10 | Finding the Greatest Common Divisor (GCD) | C++, Python, Java | [Watch](https://youtube.com/@shubhdevs) |
-| 11 | Finding the Least Common Multiple (LCM) | C++, Python, Java | [Watch](https://youtube.com/@shubhdevs) |
-| 25 | Finding the Number of Digits in a Number | C++, Python | [Watch](https://youtube.com/@shubhdevs) |
-| 33 | Calculating the Power of a Number | C++, Python, Java | [Watch](https://youtube.com/@shubhdevs) |
-| 36 | Finding the N-th Triangular Number | C++, Python | [Watch](https://youtube.com/@shubhdevs) |
-| 37 | Checking for Perfect Squares | C++, Python | [Watch](https://youtube.com/@shubhdevs) |
-| 38 | Finding the Sum of Squares of Digits | C++, Python | [Watch](https://youtube.com/@shubhdevs) |
-| 40 | Calculating the Sum of Digits of a Number Until Single Digit | C++, Python | [Watch](https://youtube.com/@shubhdevs) |
-| 41 | Finding the Count of Specific Digits in a Number | C++, Python | [Watch](https://youtube.com/@shubhdevs) |
-| 43 | Finding All Divisors of a Number | C++, Python | [Watch](https://youtube.com/@shubhdevs) |
+| 1 | Determining Even/Odd Numbers | **[C++](../solutions/cpp/001_evenOdd.cpp)**  | [Watch](https://youtube.com/@shubhdevs) |
+| 3 | Validating Leap Years |  | [Watch](https://youtube.com/@shubhdevs) |
+| 8 | Finding the Factorial of a Number |  | [Watch](https://youtube.com/@shubhdevs) |
+| 9 | Summing Digits of a Number |  | [Watch](https://youtube.com/@shubhdevs) |
+| 10 | Finding the Greatest Common Divisor (GCD) |  | [Watch](https://youtube.com/@shubhdevs) |
+| 11 | Finding the Least Common Multiple (LCM) |  | [Watch](https://youtube.com/@shubhdevs) |
+| 25 | Finding the Number of Digits in a Number |  | [Watch](https://youtube.com/@shubhdevs) |
+| 33 | Calculating the Power of a Number |  | [Watch](https://youtube.com/@shubhdevs) |
+| 36 | Finding the N-th Triangular Number |  | [Watch](https://youtube.com/@shubhdevs) |
+| 37 | Checking for Perfect Squares |  | [Watch](https://youtube.com/@shubhdevs) |
+| 38 | Finding the Sum of Squares of Digits |  | [Watch](https://youtube.com/@shubhdevs) |
+| 40 | Calculating the Sum of Digits of a Number Until Single Digit |  | [Watch](https://youtube.com/@shubhdevs) |
+| 41 | Finding the Count of Specific Digits in a Number |  | [Watch](https://youtube.com/@shubhdevs) |
+| 43 | Finding All Divisors of a Number |  | [Watch](https://youtube.com/@shubhdevs) |
 
 </details>
 
@@ -86,15 +86,15 @@ This is the complete list of problems in the **Code Before DSA** series. Each pr
 
 | No. | Problem Name | Solution | YouTube Video |
 |-----|--------------|----------|---------------|
-| 2 | Checking for Prime Numbers | C++, Python, Java | [Watch](https://youtube.com/@shubhdevs) |
-| 4 | Calculating Armstrong Numbers | C++, Python, Java | [Watch](https://youtube.com/@shubhdevs) |
-| 17 | Checking for Armstrong Numbers in a Range | C++, Python | [Watch](https://youtube.com/@shubhdevs) |
-| 19 | Finding Prime Numbers in a Range | C++, Python | [Watch](https://youtube.com/@shubhdevs) |
-| 20 | Checking for Perfect Numbers | C++, Python | [Watch](https://youtube.com/@shubhdevs) |
-| 24 | Printing Prime Numbers Less Than a Given Number | C++, Python | [Watch](https://youtube.com/@shubhdevs) |
-| 26 | Checking if a Number is a Narcissistic Number | C++, Python | [Watch](https://youtube.com/@shubhdevs) |
-| 35 | Finding the Sum of Prime Numbers in a Range | C++, Python | [Watch](https://youtube.com/@shubhdevs) |
-| 48 | Finding the Sum of Prime Factors of a Number | C++, Python | [Watch](https://youtube.com/@shubhdevs) |
+| 2 | Checking for Prime Numbers |  | [Watch](https://youtube.com/@shubhdevs) |
+| 4 | Calculating Armstrong Numbers |  | [Watch](https://youtube.com/@shubhdevs) |
+| 17 | Checking for Armstrong Numbers in a Range |  | [Watch](https://youtube.com/@shubhdevs) |
+| 19 | Finding Prime Numbers in a Range |  | [Watch](https://youtube.com/@shubhdevs) |
+| 20 | Checking for Perfect Numbers |  | [Watch](https://youtube.com/@shubhdevs) |
+| 24 | Printing Prime Numbers Less Than a Given Number |  | [Watch](https://youtube.com/@shubhdevs) |
+| 26 | Checking if a Number is a Narcissistic Number |  | [Watch](https://youtube.com/@shubhdevs) |
+| 35 | Finding the Sum of Prime Numbers in a Range |  | [Watch](https://youtube.com/@shubhdevs) |
+| 48 | Finding the Sum of Prime Factors of a Number |  | [Watch](https://youtube.com/@shubhdevs) |
 
 </details>
 
@@ -103,19 +103,19 @@ This is the complete list of problems in the **Code Before DSA** series. Each pr
 
 | No. | Problem Name | Solution | YouTube Video |
 |-----|--------------|----------|---------------|
-| 5 | Generating the Fibonacci Series | C++, Python, Java | [Watch](https://youtube.com/@shubhdevs) |
-| 14 | Finding the Largest and Smallest Numbers in an Array | C++, Python, Java | [Watch](https://youtube.com/@shubhdevs) |
-| 15 | Sorting an Array | C++, Python, Java | [Watch](https://youtube.com/@shubhdevs) |
-| 16 | Finding the Sum of Elements in an Array | C++, Python, Java | [Watch](https://youtube.com/@shubhdevs) |
-| 23 | Finding the Fibonacci Number at a Specific Position | C++, Python, Java | [Watch](https://youtube.com/@shubhdevs) |
-| 30 | Finding Missing Numbers in a Sequence | C++, Python, Java | [Watch](https://youtube.com/@shubhdevs) |
-| 31 | Generating a Pascal's Triangle | C++, Python | [Watch](https://youtube.com/@shubhdevs) |
-| 32 | Finding the Median of an Array | C++, Python, Java | [Watch](https://youtube.com/@shubhdevs) |
-| 39 | Generating a Square Matrix of a Given Size | C++, Python | [Watch](https://youtube.com/@shubhdevs) |
-| 42 | Generating a Fibonacci Sequence Using Recursion | C++, Python, Java | [Watch](https://youtube.com/@shubhdevs) |
-| 44 | Finding the Average of Numbers in an Array | C++, Python, Java | [Watch](https://youtube.com/@shubhdevs) |
-| 45 | Finding the Mode of Numbers in an Array | C++, Python, Java | [Watch](https://youtube.com/@shubhdevs) |
-| 49 | Finding the Second Largest Number in an Array | C++, Python, Java | [Watch](https://youtube.com/@shubhdevs) |
+| 5 | Generating the Fibonacci Series |  | [Watch](https://youtube.com/@shubhdevs) |
+| 14 | Finding the Largest and Smallest Numbers in an Array |  | [Watch](https://youtube.com/@shubhdevs) |
+| 15 | Sorting an Array |  | [Watch](https://youtube.com/@shubhdevs) |
+| 16 | Finding the Sum of Elements in an Array |  | [Watch](https://youtube.com/@shubhdevs) |
+| 23 | Finding the Fibonacci Number at a Specific Position |  | [Watch](https://youtube.com/@shubhdevs) |
+| 30 | Finding Missing Numbers in a Sequence |  | [Watch](https://youtube.com/@shubhdevs) |
+| 31 | Generating a Pascal's Triangle |  | [Watch](https://youtube.com/@shubhdevs) |
+| 32 | Finding the Median of an Array |  | [Watch](https://youtube.com/@shubhdevs) |
+| 39 | Generating a Square Matrix of a Given Size |  | [Watch](https://youtube.com/@shubhdevs) |
+| 42 | Generating a Fibonacci Sequence Using Recursion |  | [Watch](https://youtube.com/@shubhdevs) |
+| 44 | Finding the Average of Numbers in an Array |  | [Watch](https://youtube.com/@shubhdevs) |
+| 45 | Finding the Mode of Numbers in an Array |  | [Watch](https://youtube.com/@shubhdevs) |
+| 49 | Finding the Second Largest Number in an Array |  | [Watch](https://youtube.com/@shubhdevs) |
 
 </details>
 
@@ -124,13 +124,13 @@ This is the complete list of problems in the **Code Before DSA** series. Each pr
 
 | No. | Problem Name | Solution | YouTube Video |
 |-----|--------------|----------|---------------|
-| 6 | Identifying Palindromes | C++, Python | [Watch](https://youtube.com/@shubhdevs) |
-| 12 | Counting Vowels and Consonants in a String | C++, Python | [Watch](https://youtube.com/@shubhdevs) |
-| 13 | Reversing a String | C++, Python, Java | [Watch](https://youtube.com/@shubhdevs) |
-| 29 | Finding the Largest Palindrome in a String | C++, Python | [Watch](https://youtube.com/@shubhdevs) |
-| 34 | Checking for an Anagram | C++, Python, Java | [Watch](https://youtube.com/@shubhdevs) |
-| 46 | Determining the Length of a String Without Using Built-In Functions | C++, Python | [Watch](https://youtube.com/@shubhdevs) |
-| 50 | Finding the Longest Substring Without Repeating Characters | C++, Python, Java | [Watch](https://youtube.com/@shubhdevs) |
+| 6 | Identifying Palindromes |  | [Watch](https://youtube.com/@shubhdevs) |
+| 12 | Counting Vowels and Consonants in a String |  | [Watch](https://youtube.com/@shubhdevs) |
+| 13 | Reversing a String |  | [Watch](https://youtube.com/@shubhdevs) |
+| 29 | Finding the Largest Palindrome in a String |  | [Watch](https://youtube.com/@shubhdevs) |
+| 34 | Checking for an Anagram |  | [Watch](https://youtube.com/@shubhdevs) |
+| 46 | Determining the Length of a String Without Using Built-In Functions |  | [Watch](https://youtube.com/@shubhdevs) |
+| 50 | Finding the Longest Substring Without Repeating Characters |  | [Watch](https://youtube.com/@shubhdevs) |
 
 </details>
 
@@ -139,12 +139,12 @@ This is the complete list of problems in the **Code Before DSA** series. Each pr
 
 | No. | Problem Name | Solution | YouTube Video |
 |-----|--------------|----------|---------------|
-| 7 | Crafting Star Patterns | C++, Python | [Watch](https://youtube.com/@shubhdevs) |
-| 18 | Generating Multiplication Tables | C++, Python | [Watch](https://youtube.com/@shubhdevs) |
-| 21 | Calculating the Sum of Even Numbers in a Range | C++, Python | [Watch](https://youtube.com/@shubhdevs) |
-| 22 | Calculating the Sum of Odd Numbers in a Range | C++, Python | [Watch](https://youtube.com/@shubhdevs) |
-| 27 | Generating a Pattern of Numbers | C++, Python | [Watch](https://youtube.com/@shubhdevs) |
-| 47 | Generating a Number Pyramid | C++, Python | [Watch](https://youtube.com/@shubhdevs) |
+| 7 | Crafting Star Patterns |  | [Watch](https://youtube.com/@shubhdevs) |
+| 18 | Generating Multiplication Tables |  | [Watch](https://youtube.com/@shubhdevs) |
+| 21 | Calculating the Sum of Even Numbers in a Range |  | [Watch](https://youtube.com/@shubhdevs) |
+| 22 | Calculating the Sum of Odd Numbers in a Range |  | [Watch](https://youtube.com/@shubhdevs) |
+| 27 | Generating a Pattern of Numbers |  | [Watch](https://youtube.com/@shubhdevs) |
+| 47 | Generating a Number Pyramid |  | [Watch](https://youtube.com/@shubhdevs) |
 
 </details>
 
@@ -153,7 +153,7 @@ This is the complete list of problems in the **Code Before DSA** series. Each pr
 
 | No. | Problem Name | Solution | YouTube Video |
 |-----|--------------|----------|---------------|
-| 28 | Finding the Sum of the Digits of the Factorial of a Number | C++, Python | [Watch](https://youtube.com/@shubhdevs) |
+| 28 | Finding the Sum of the Digits of the Factorial of a Number |  | [Watch](https://youtube.com/@shubhdevs) |
 
 </details>
 
