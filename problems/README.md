@@ -6,7 +6,7 @@ This is the complete list of problems in the **Code Before DSA** series. Each pr
 
 | No. | Problem Name | Problem Link | Solution | YouTube Explanation Video |
 |-----|--------------|--------------|----------|---------------|
-| 1 | Determining Even/Odd Numbers | [View Problem](#1-determining-evenodd-numbers) | **[C++](../solutions/cpp/001_evenOdd.cpp)** | [Watch](https://youtube.com/@shubhdevs) |
+| 1 | Determining Even/Odd Numbers | [View Problem](#1-determining-evenodd-numbers) | **[C++](../solutions/cpp/001_evenOdd.cpp)** | [Watch](https://youtu.be/pQdXKbg9Bg0) |
 | 2 | Checking for Prime Numbers | [View Problem](#2-checking-for-prime-numbers) |  | [Watch](https://youtube.com/@shubhdevs) |
 | 3 | Validating Leap Years | [View Problem](#3-validating-leap-years) |  | [Watch](https://youtube.com/@shubhdevs) |
 | 4 | Calculating Armstrong Numbers | [View Problem](#4-calculating-armstrong-numbers) |  | [Watch](https://youtube.com/@shubhdevs) |
@@ -56,6 +56,106 @@ This is the complete list of problems in the **Code Before DSA** series. Each pr
 | 48 | Finding the Sum of Prime Factors of a Number | [View Problem](#48-finding-the-sum-of-prime-factors-of-a-number) |  | [Watch](https://youtube.com/@shubhdevs) |
 | 49 | Finding the Second Largest Number in an Array | [View Problem](#49-finding-the-second-largest-number-in-an-array) |  | [Watch](https://youtube.com/@shubhdevs) |
 | 50 | Finding the Longest Substring Without Repeating Characters | [View Problem](#50-finding-the-longest-substring-without-repeating-characters) |  | [Watch](https://youtube.com/@shubhdevs) |
+| 51 | Finding the Sum of Digits of a Number Until Zero | [View Problem](#51-finding-the-sum-of-digits-of-a-number-until-zero) |  | [Watch](https://youtube.com/@shubhdevs) |
+| 52 | Generating a Multiplication Table for a Range | [View Problem](#52-generating-a-multiplication-table-for-a-range) |  | [Watch](https://youtube.com/@shubhdevs) |
+| 53 | Calculating the Sum of a Series (1 + 1/2 + 1/3 + ... + 1/n) | [View Problem](#53-calculating-the-sum-of-a-series-1---12---13------1n) |  | [Watch](https://youtube.com/@shubhdevs) |
+| 54 | Finding All Pairs of Elements in an Array that Add Up to a Given Sum | [View Problem](#54-finding-all-pairs-of-elements-in-an-array-that-add-up-to-a-given-sum) |  | [Watch](https://youtube.com/@shubhdevs) |
+| 55 | Generating a Diamond Pattern of Stars | [View Problem](#55-generating-a-diamond-pattern-of-stars) |  | [Watch](https://youtube.com/@shubhdevs) |
+| 56 | Counting the Number of Palindromic Substrings in a String | [View Problem](#56-counting-the-number-of-palindromic-substrings-in-a-string) |  | [Watch](https://youtube.com/@shubhdevs) |
+| 57 | Generating a Matrix with Multiplication Table | [View Problem](#57-generating-a-matrix-with-multiplication-table) |  | [Watch](https://youtube.com/@shubhdevs) |
+| 58 | Finding the GCD of Multiple Numbers | [View Problem](#58-finding-the-gcd-of-multiple-numbers) |  | [Watch](https://youtube.com/@shubhdevs) |
+| 59 | Finding the Sum of the First N Odd Numbers | [View Problem](#59-finding-the-sum-of-the-first-n-odd-numbers) |  | [Watch](https://youtube.com/@shubhdevs) |
+| 60 | Finding the Number of Perfect Numbers Up to a Given Limit | [View Problem](#60-finding-the-number-of-perfect-numbers-up-to-a-given-limit) |  | [Watch](https://youtube.com/@shubhdevs) |
+| 61 | Finding the Largest Prime Factor of a Number | [View Problem](#61-finding-the-largest-prime-factor-of-a-number) |  | [Watch](https://youtube.com/@shubhdevs) |
+| 62 | Generating a Matrix of Fibonacci Numbers | [View Problem](#62-generating-a-matrix-of-fibonacci-numbers) |  | [Watch](https://youtube.com/@shubhdevs) |
+| 63 | Finding the Sum of the First N Prime Numbers | [View Problem](#63-finding-the-sum-of-the-first-n-prime-numbers) |  | [Watch](https://youtube.com/@shubhdevs) |
+| 64 | Checking for a Balanced Bracket Sequence | [View Problem](#64-checking-for-a-balanced-bracket-sequence) |  | [Watch](https://youtube.com/@shubhdevs) |
+| 65 | Finding the Sum of Numbers in a String | [View Problem](#65-finding-the-sum-of-numbers-in-a-string) |  | [Watch](https://youtube.com/@shubhdevs) |
+| 66 | Finding the Longest Consecutive Sequence in an Array | [View Problem](#66-finding-the-longest-consecutive-sequence-in-an-array) |  | [Watch](https://youtube.com/@shubhdevs) |
+| 67 | Generating a Matrix with a Spiral Pattern | [View Problem](#67-generating-a-matrix-with-a-spiral-pattern) |  | [Watch](https://youtube.com/@shubhdevs) |
+| 68 | Finding All Subsets of a Set | [View Problem](#68-finding-all-subsets-of-a-set) |  | [Watch](https://youtube.com/@shubhdevs) |
+| 69 | Checking for Perfect Squares in a Range | [View Problem](#69-checking-for-perfect-squares-in-a-range) |  | [Watch](https://youtube.com/@shubhdevs) |
+| 70 | Finding the Sum of Diagonal Elements in a Matrix | [View Problem](#70-finding-the-sum-of-diagonal-elements-in-a-matrix) |  | [Watch](https://youtube.com/@shubhdevs) |
+| 71 | Finding the Second Smallest Number in an Array | [View Problem](#71-finding-the-second-smallest-number-in-an-array) |  | [Watch](https://youtube.com/@shubhdevs) |
+| 72 | Generating Pascal's Triangle Up to N Rows | [View Problem](#72-generating-pascals-triangle-up-to-n-rows) |  | [Watch](https://youtube.com/@shubhdevs) |
+| 73 | Finding the Sum of Digits of the Product of Two Numbers | [View Problem](#73-finding-the-sum-of-digits-of-the-product-of-two-numbers) |  | [Watch](https://youtube.com/@shubhdevs) |
+| 74 | Checking for Palindromic Numbers in a Range | [View Problem](#74-checking-for-palindromic-numbers-in-a-range) |  | [Watch](https://youtube.com/@shubhdevs) |
+| 75 | Generating a Matrix with Alternating 0s and 1s | [View Problem](#75-generating-a-matrix-with-alternating-0s-and-1s) |  | [Watch](https://youtube.com/@shubhdevs) |
+| 76 | Finding the Count of a Specific Word in a String | [View Problem](#76-finding-the-count-of-a-specific-word-in-a-string) |  | [Watch](https://youtube.com/@shubhdevs) |
+| 77 | Finding the Largest Sum of a Subarray | [View Problem](#77-finding-the-largest-sum-of-a-subarray) |  | [Watch](https://youtube.com/@shubhdevs) |
+| 78 | Generating a Right-Angle Triangle Pattern of Numbers | [View Problem](#78-generating-a-right-angle-triangle-pattern-of-numbers) |  | [Watch](https://youtube.com/@shubhdevs) |
+| 79 | Finding All Divisors of the Product of Two Numbers | [View Problem](#79-finding-all-divisors-of-the-product-of-two-numbers) |  | [Watch](https://youtube.com/@shubhdevs) |
+| 80 | Finding the Longest Sequence of Consecutive 1s in a Binary Array | [View Problem](#80-finding-the-longest-sequence-of-consecutive-1s-in-a-binary-array) |  | [Watch](https://youtube.com/@shubhdevs) |
+| 81 | Calculating the Sum of the First N Fibonacci Numbers | [View Problem](#81-calculating-the-sum-of-the-first-n-fibonacci-numbers) |  | [Watch](https://youtube.com/@shubhdevs) |
+| 82 | Checking for a Repeated Substring in a String | [View Problem](#82-checking-for-a-repeated-substring-in-a-string) |  | [Watch](https://youtube.com/@shubhdevs) |
+| 83 | Finding the Median of a List of Numbers | [View Problem](#83-finding-the-median-of-a-list-of-numbers) |  | [Watch](https://youtube.com/@shubhdevs) |
+| 84 | Finding the Number of Words in a String | [View Problem](#84-finding-the-number-of-words-in-a-string) |  | [Watch](https://youtube.com/@shubhdevs) |
+| 85 | Generating a Matrix with a Diagonal Pattern | [View Problem](#85-generating-a-matrix-with-a-diagonal-pattern) |  | [Watch](https://youtube.com/@shubhdevs) |
+| 86 | Finding the Sum of the First N Even Numbers | [View Problem](#86-finding-the-sum-of-the-first-n-even-numbers) |  | [Watch](https://youtube.com/@shubhdevs) |
+| 87 | Finding the Count of Digits Greater Than a Specific Value | [View Problem](#87-finding-the-count-of-digits-greater-than-a-specific-value) |  | [Watch](https://youtube.com/@shubhdevs) |
+| 88 | Generating a Pattern of Prime Numbers | [View Problem](#88-generating-a-pattern-of-prime-numbers) |  | [Watch](https://youtube.com/@shubhdevs) |
+| 89 | Finding the Common Elements in Two Arrays | [View Problem](#89-finding-the-common-elements-in-two-arrays) |  | [Watch](https://youtube.com/@shubhdevs) |
+| 90 | Finding the Sum of the Squares of All Even Numbers Up to N | [View Problem](#90-finding-the-sum-of-the-squares-of-all-even-numbers-up-to-n) |  | [Watch](https://youtube.com/@shubhdevs) |
+| 91 | Generating a Pattern of Increasing Numbers | [View Problem](#91-generating-a-pattern-of-increasing-numbers) |  | [Watch](https://youtube.com/@shubhdevs) |
+| 92 | Finding the Largest Element in Each Row of a Matrix | [View Problem](#92-finding-the-largest-element-in-each-row-of-a-matrix) |  | [Watch](https://youtube.com/@shubhdevs) |
+| 93 | Checking for Anagram Pairs in a List of Strings | [View Problem](#93-checking-for-anagram-pairs-in-a-list-of-strings) |  | [Watch](https://youtube.com/@shubhdevs) |
+| 94 | Finding the Frequency of Each Character in a String | [View Problem](#94-finding-the-frequency-of-each-character-in-a-string) |  | [Watch](https://youtube.com/@shubhdevs) |
+| 95 | Generating a Matrix with Random Numbers | [View Problem](#95-generating-a-matrix-with-random-numbers) |  | [Watch](https://youtube.com/@shubhdevs) |
+| 96 | Finding the Length of the Longest Word in a String | [View Problem](#96-finding-the-length-of-the-longest-word-in-a-string) |  | [Watch](https://youtube.com/@shubhdevs) |
+| 97 | Finding All Triplets in an Array That Sum to Zero | [View Problem](#97-finding-all-triplets-in-an-array-that-sum-to-zero) |  | [Watch](https://youtube.com/@shubhdevs) |
+| 98 | Generating a Square Matrix with Random Values | [View Problem](#98-generating-a-square-matrix-with-random-values) |  | [Watch](https://youtube.com/@shubhdevs) |
+| 99 | Finding the Difference Between the Sum of Even and Odd Numbers in an Array | [View Problem](#99-finding-the-difference-between-the-sum-of-even-and-odd-numbers-in-an-array) |  | [Watch](https://youtube.com/@shubhdevs) |
+| 100 | Generating a Triangle Pattern of Stars with a Given Height | [View Problem](#100-generating-a-triangle-pattern-of-stars-with-a-given-height) |  | [Watch](https://youtube.com/@shubhdevs) |
+| 101 | Print a Right-Angle Triangle of Stars | [View Problem](#101-print-a-right-angle-triangle-of-stars) |  | [Watch](https://youtube.com/@shubhdevs) |
+| 102 | Print a Square of Stars | [View Problem](#102-print-a-square-of-stars) |  | [Watch](https://youtube.com/@shubhdevs) |
+| 103 | Print a Pyramid Pattern | [View Problem](#103-print-a-pyramid-pattern) |  | [Watch](https://youtube.com/@shubhdevs) |
+| 104 | Print a Diamond Pattern | [View Problem](#104-print-a-diamond-pattern) |  | [Watch](https://youtube.com/@shubhdevs) |
+| 105 | Print a Hollow Square of Stars | [View Problem](#105-print-a-hollow-square-of-stars) |  | [Watch](https://youtube.com/@shubhdevs) |
+| 106 | Print a Number Triangle | [View Problem](#106-print-a-number-triangle) |  | [Watch](https://youtube.com/@shubhdevs) |
+| 107 | Print an Inverted Triangle Pattern | [View Problem](#107-print-an-inverted-triangle-pattern) |  | [Watch](https://youtube.com/@shubhdevs) |
+| 108 | Print a Diamond Pattern with Numbers | [View Problem](#108-print-a-diamond-pattern-with-numbers) |  | [Watch](https://youtube.com/@shubhdevs) |
+| 109 | Print a Right-Angle Triangle of Numbers | [View Problem](#109-print-a-right-angle-triangle-of-numbers) |  | [Watch](https://youtube.com/@shubhdevs) |
+| 110 | Print a Pyramid Pattern with Numbers | [View Problem](#110-print-a-pyramid-pattern-with-numbers) |  | [Watch](https://youtube.com/@shubhdevs) |
+| 111 | Print a Pattern of Alternating 0s and 1s | [View Problem](#111-print-a-pattern-of-alternating-0s-and-1s) |  | [Watch](https://youtube.com/@shubhdevs) |
+| 112 | Print a Pascal's Triangle | [View Problem](#112-print-a-pascals-triangle) |  | [Watch](https://youtube.com/@shubhdevs) |
+| 113 | Print a Pattern of Consecutive Numbers | [View Problem](#113-print-a-pattern-of-consecutive-numbers) |  | [Watch](https://youtube.com/@shubhdevs) |
+| 114 | Print a Star Pattern with Increasing Width | [View Problem](#114-print-a-star-pattern-with-increasing-width) |  | [Watch](https://youtube.com/@shubhdevs) |
+| 115 | Print a Right-Angle Triangle Pattern with Characters | [View Problem](#115-print-a-right-angle-triangle-pattern-with-characters) |  | [Watch](https://youtube.com/@shubhdevs) |
+| 116 | Print a Checkerboard Pattern | [View Problem](#116-print-a-checkerboard-pattern) |  | [Watch](https://youtube.com/@shubhdevs) |
+| 117 | Print a Pyramid Pattern of Increasing Stars | [View Problem](#117-print-a-pyramid-pattern-of-increasing-stars) |  | [Watch](https://youtube.com/@shubhdevs) |
+| 118 | Print a Border Pattern with Numbers | [View Problem](#118-print-a-border-pattern-with-numbers) |  | [Watch](https://youtube.com/@shubhdevs) |
+| 119 | Print an Inverted Pyramid Pattern with Characters | [View Problem](#119-print-an-inverted-pyramid-pattern-with-characters) |  | [Watch](https://youtube.com/@shubhdevs) |
+| 120 | Print a Cross Pattern with Stars | [View Problem](#120-print-a-cross-pattern-with-stars) |  | [Watch](https://youtube.com/@shubhdevs) |
+| 121 | Print a Spiral Matrix | [View Problem](#121-print-a-spiral-matrix) |  | [Watch](https://youtube.com/@shubhdevs) |
+| 122 | Print a Diamond Pattern with Increasing Width | [View Problem](#122-print-a-diamond-pattern-with-increasing-width) |  | [Watch](https://youtube.com/@shubhdevs) |
+| 123 | Print a Diamond Pattern with Numbers Increasing | [View Problem](#123-print-a-diamond-pattern-with-numbers-increasing) |  | [Watch](https://youtube.com/@shubhdevs) |
+| 124 | Print a Pattern of Increasing and Decreasing Stars | [View Problem](#124-print-a-pattern-of-increasing-and-decreasing-stars) |  | [Watch](https://youtube.com/@shubhdevs) |
+| 125 | Print a Matrix with Zigzag Pattern | [View Problem](#125-print-a-matrix-with-zigzag-pattern) |  | [Watch](https://youtube.com/@shubhdevs) |
+| 126 | Print a Pattern of Alternating Characters in Rows | [View Problem](#126-print-a-pattern-of-alternating-characters-in-rows) |  | [Watch](https://youtube.com/@shubhdevs) |
+| 127 | Print a Number Pyramid Pattern with Characters | [View Problem](#127-print-a-number-pyramid-pattern-with-characters) |  | [Watch](https://youtube.com/@shubhdevs) |
+| 128 | Print a Pattern with Diagonal Lines | [View Problem](#128-print-a-pattern-with-diagonal-lines) |  | [Watch](https://youtube.com/@shubhdevs) |
+| 129 | Print a Matrix with Diamond Pattern of Numbers | [View Problem](#129-print-a-matrix-with-diamond-pattern-of-numbers) |  | [Watch](https://youtube.com/@shubhdevs) |
+| 130 | Print a Cross Pattern of Stars with Diagonals | [View Problem](#130-print-a-cross-pattern-of-stars-with-diagonals) |  | [Watch](https://youtube.com/@shubhdevs) |
+| 131 | Print a Triangular Matrix with Numbers | [View Problem](#131-print-a-triangular-matrix-with-numbers) |  | [Watch](https://youtube.com/@shubhdevs) |
+| 132 | Print a Star Pattern with Increasing and Decreasing Width | [View Problem](#132-print-a-star-pattern-with-increasing-and-decreasing-width) |  | [Watch](https://youtube.com/@shubhdevs) |
+| 133 | Print a Pattern of Nested Squares | [View Problem](#133-print-a-pattern-of-nested-squares) |  | [Watch](https://youtube.com/@shubhdevs) |
+| 134 | Print a Pattern with Increasing Characters in Columns | [View Problem](#134-print-a-pattern-with-increasing-characters-in-columns) |  | [Watch](https://youtube.com/@shubhdevs) |
+| 135 | Print a Matrix with Spiral Diagonals | [View Problem](#135-print-a-matrix-with-spiral-diagonals) |  | [Watch](https://youtube.com/@shubhdevs) |
+| 136 | Print a Checkerboard Pattern with Increasing Size | [View Problem](#136-print-a-checkerboard-pattern-with-increasing-size) |  | [Watch](https://youtube.com/@shubhdevs) |
+| 137 | Print a Cross Pattern with Increasing Size | [View Problem](#137-print-a-cross-pattern-with-increasing-size) |  | [Watch](https://youtube.com/@shubhdevs) |
+| 138 | Print a Pattern of Alternating Triangles | [View Problem](#138-print-a-pattern-of-alternating-triangles) |  | [Watch](https://youtube.com/@shubhdevs) |
+| 139 | Print a Matrix with Diamond Pattern of Numbers | [View Problem](#139-print-a-matrix-with-diamond-pattern-of-numbers) |  | [Watch](https://youtube.com/@shubhdevs) |
+| 140 | Print a Star Pattern with Increasing Width and Centered | [View Problem](#140-print-a-star-pattern-with-increasing-width-and-centered) |  | [Watch](https://youtube.com/@shubhdevs) |
+| 141 | Print a Pattern with Spiral and Zigzag | [View Problem](#141-print-a-pattern-with-spiral-and-zigzag) |  | [Watch](https://youtube.com/@shubhdevs) |
+| 142 | Print a Pattern of Alternating Characters in Matrix | [View Problem](#142-print-a-pattern-of-alternating-characters-in-matrix) |  | [Watch](https://youtube.com/@shubhdevs) |
+| 143 | Print a Pattern with Nested Triangles | [View Problem](#143-print-a-pattern-with-nested-triangles) |  | [Watch](https://youtube.com/@shubhdevs) |
+| 144 | Print a Matrix with Increasing Rows and Columns | [View Problem](#144-print-a-matrix-with-increasing-rows-and-columns) |  | [Watch](https://youtube.com/@shubhdevs) |
+| 145 | Print a Pattern with Rows of Increasing Characters | [View Problem](#145-print-a-pattern-with-rows-of-increasing-characters) |  | [Watch](https://youtube.com/@shubhdevs) |
+| 146 | Print a Star Pattern with Diamond Shape and Numbers | [View Problem](#146-print-a-star-pattern-with-diamond-shape-and-numbers) |  | [Watch](https://youtube.com/@shubhdevs) |
+| 147 | Print a Matrix with Cross Pattern of Numbers | [View Problem](#147-print-a-matrix-with-cross-pattern-of-numbers) |  | [Watch](https://youtube.com/@shubhdevs) |
+| 148 | Print a Pattern with Concentric Squares | [View Problem](#148-print-a-pattern-with-concentric-squares) |  | [Watch](https://youtube.com/@shubhdevs) |
+| 149 | Print a Pattern of Alternating Rows and Columns of Numbers | [View Problem](#149-print-a-pattern-of-alternating-rows-and-columns-of-numbers) |  | [Watch](https://youtube.com/@shubhdevs) |
+| 150 | Print a Matrix with Zigzag Pattern of Stars | [View Problem](#150-print-a-matrix-with-zigzag-pattern-of-stars) |  | [Watch](https://youtube.com/@shubhdevs) |
 
 ## 📂 Problems by Category
 
@@ -895,8 +995,1718 @@ This is the complete list of problems in the **Code Before DSA** series. Each pr
 
 ---
 
+### 51. Finding the Sum of Digits of a Number Until Zero
+
+**Difficulty**: Easy  
+**Topics**: Basic Programming, Mathematical Computations
+
+**Description**: Write a program to repeatedly sum the digits of a number until the result is zero.
+
+**Example**:
+- Input: `number = 123`
+- Output: `6`
+- Explanation: Sum of digits is 1 + 2 + 3 = 6; sum of digits of 6 is 6 (which is a single digit).
+
+---
+
+### 52. Generating a Multiplication Table for a Range
+
+**Difficulty**: Easy  
+**Topics**: Arrays, Basic Programming
+
+**Description**: Write a program to generate multiplication tables for numbers within a specified range.
+
+**Example**:
+- Input: `start = 2`, `end = 4`
+- Output:
+```
+2 x 1 = 2   3 x 1 = 3   4 x 1 = 4
+2 x 2 = 4   3 x 2 = 6   4 x 2 = 8
+2 x 3 = 6   3 x 3 = 9   4 x 3 = 12
+2 x 4 = 8   3 x 4 = 12  4 x 4 = 16
+```
+
+---
+
+### 53. Calculating the Sum of a Series (1 + 1/2 + 1/3 + ... + 1/n)
+
+**Difficulty**: Medium  
+**Topics**: Mathematical Computations
+
+**Description**: Write a program to calculate the sum of the series 1 + 1/2 + 1/3 + ... + 1/n up to the nth term.
+
+**Example**:
+- Input: `n = 4`
+- Output: `2.083333`
+- Explanation: Sum of the series is 1 + 1/2 + 1/3 + 1/4 ≈ 2.083333.
+
+---
+
+### 54. Finding All Pairs of Elements in an Array that Add Up to a Given Sum
+
+**Difficulty**: Medium  
+**Topics**: Arrays, Hashing
+
+**Description**: Write a program to find all pairs of elements in an array whose sum equals a specified target.
+
+**Example**:
+- Input: `array = [1, 2, 3, 4, 5]`, `target = 5`
+- Output: `[(1, 4), (2, 3)]`
+- Explanation: Pairs that sum up to 5 are (1, 4) and (2, 3).
+
+---
+
+### 55. Generating a Diamond Pattern of Stars
+
+**Difficulty**: Medium  
+**Topics**: Patterns, Basic Programming
+
+**Description**: Write a program to create a diamond pattern with stars of a given size.
+
+**Example**:
+- Input: `size = 5`
+- Output:
+```
+  *
+ ***
+*****
+ ***
+  *
+```
+
+---
+
+### 56. Counting the Number of Palindromic Substrings in a String
+
+**Difficulty**: Medium  
+**Topics**: String Manipulation
+
+**Description**: Write a program to count how many palindromic substrings exist in a given string.
+
+**Example**:
+- Input: `string = "aaa"`
+- Output: `6`
+- Explanation: Palindromic substrings are "a", "a", "a", "aa", "aa", "aaa".
+
+---
+
+### 57. Generating a Matrix with Multiplication Table
+
+**Difficulty**: Easy  
+**Topics**: Arrays, Matrix Operations
+
+**Description**: Write a program to generate a matrix where each element at position (i, j) is the product of i and j.
+
+**Example**:
+- Input: `size = 3`
+- Output:
+```
+1 2 3
+2 4 6
+3 6 9
+```
+
+---
+
+### 58. Finding the GCD of Multiple Numbers
+
+**Difficulty**: Medium  
+**Topics**: Mathematical Computations
+
+**Description**: Write a program to find the GCD (Greatest Common Divisor) of an array of numbers.
+
+**Example**:
+- Input: `array = [12, 24, 36]`
+- Output: `12`
+- Explanation: The GCD of 12, 24, and 36 is 12.
+
+---
+
+### 59. Finding the Sum of the First N Odd Numbers
+
+**Difficulty**: Easy  
+**Topics**: Mathematical Computations
+
+**Description**: Write a program to calculate the sum of the first N odd numbers.
+
+**Example**:
+- Input: `N = 5`
+- Output: `25`
+- Explanation: Sum of the first 5 odd numbers (1 + 3 + 5 + 7 + 9) is 25.
+
+---
+
+### 60. Finding the Number of Perfect Numbers Up to a Given Limit
+
+**Difficulty**: Medium  
+**Topics**: Number Theory
+
+**Description**: Write a program to find how many perfect numbers exist up to a given limit.
+
+**Example**:
+- Input: `limit = 30`
+- Output: `1`
+- Explanation: There is only one perfect number (6) up to 30.
+
+---
+
+### 61. Finding the Largest Prime Factor of a Number
+
+**Difficulty**: Medium  
+**Topics**: Number Theory
+
+**Description**: Write a program to find the largest prime factor of a given number.
+
+**Example**:
+- Input: `number = 28`
+- Output: `7`
+- Explanation: The prime factors of 28 are 2 and 7, with the largest being 7.
+
+---
+
+### 62. Generating a Matrix of Fibonacci Numbers
+
+**Difficulty**: Medium  
+**Topics**: Arrays, Matrix Operations
+
+**Description**: Write a program to generate a matrix where each element is a Fibonacci number.
+
+**Example**:
+- Input: `size = 3`
+- Output:
+```
+1 1 2
+3 5 8
+13 21 34
+```
+
+---
+
+### 63. Finding the Sum of the First N Prime Numbers
+
+**Difficulty**: Medium  
+**Topics**: Prime Numbers, Mathematical Computations
+
+**Description**: Write a program to calculate the sum of the first N prime numbers.
+
+**Example**:
+- Input: `N = 4`
+- Output: `17`
+- Explanation: The sum of the first 4 prime numbers (2 + 3 + 5 + 7) is 17.
+
+---
+
+### 64. Checking for a Balanced Bracket Sequence
+
+**Difficulty**: Medium  
+**Topics**: String Manipulation, Stack
+
+**Description**: Write a program to check if a given string with brackets is balanced.
+
+**Example**:
+- Input: `string = "{[()]}"`
+- Output: `True`
+- Explanation: The brackets are balanced.
+
+---
+
+### 65. Finding the Sum of Numbers in a String
+
+**Difficulty**: Easy  
+**Topics**: String Manipulation
+
+**Description**: Write a program to extract and sum all numbers present in a given string.
+
+**Example**:
+- Input: `string = "The numbers are 12 and 34"`
+- Output: `46`
+- Explanation: The sum of numbers 12 and 34 is 46.
+
+---
+
+### 66. Finding the Longest Consecutive Sequence in an Array
+
+**Difficulty**: Medium  
+**Topics**: Arrays, Hashing
+
+**Description**: Write a program to find the longest sequence of consecutive numbers in an array.
+
+**Example**:
+- Input: `array = [100, 4, 200, 1, 3, 2]`
+- Output: `4`
+- Explanation: The longest consecutive sequence is [1, 2, 3, 4].
+
+---
+
+### 67. Generating a Matrix with a Spiral Pattern
+
+**Difficulty**: Medium  
+**Topics**: Arrays, Matrix Operations
+
+**Description**: Write a program to generate a matrix filled with numbers in a spiral pattern.
+
+**Example**:
+- Input: `size = 3`
+- Output:
+```
+1 2 3
+8 9 4
+7 6 5
+```
+
+---
+
+### 68. Finding All Subsets of a Set
+
+**Difficulty**: Medium  
+**Topics**: Combinatorics
+
+**Description**: Write a program to generate all possible subsets of a given set of numbers.
+
+**Example**:
+- Input: `set = [1, 2]`
+- Output: `[[], [1], [2], [1, 2]]`
+- Explanation: The subsets of [1, 2] are the empty set, [1], [2], and [1, 2].
+
+---
+
+### 69. Checking for Perfect Squares in a Range
+
+**Difficulty**: Easy  
+**Topics**: Mathematical Computations
+
+**Description**: Write a program to check which numbers in a given range are perfect squares.
+
+**Example**:
+- Input: `start = 1`, `end = 10`
+- Output: `[1, 4, 9]`
+- Explanation: Perfect squares between 1 and 10 are 1, 4, and 9.
+
+---
+
+### 70. Finding the Sum of Diagonal Elements in a Matrix
+
+**Difficulty**: Easy  
+**Topics**: Matrix Operations
+
+**Description**: Write a program to calculate the sum of the diagonal elements in a square matrix.
+
+**Example**:
+- Input: `matrix = [[1, 2, 3], [4, 5, 6], [7, 8, 9]]`
+- Output: `15`
+- Explanation: The sum of the diagonal elements (1 + 5 + 9) is 15.
+
+---
+
+### 71. Finding the Second Smallest Number in an Array
+
+**Difficulty**: Easy  
+**Topics**: Arrays
+
+**Description**: Write a program to find the second smallest number in an array.
+
+**Example**:
+- Input: `array = [12, 13, 1, 10, 34, 1]`
+- Output: `10`
+- Explanation: The second smallest number in the array is 10.
+
+---
+
+### 72. Generating Pascal's Triangle Up to N Rows
+
+**Difficulty**: Medium  
+**Topics**: Combinatorics
+
+**Description**: Write a program to generate Pascal's Triangle up to N rows.
+
+**Example**:
+- Input: `N = 3`
+- Output:
+```
+1
+1 1
+1 2 1
+```
+
+---
+
+### 73. Finding the Sum of Digits of the Product of Two Numbers
+
+**Difficulty**: Easy  
+**Topics**: Mathematical Computations
+
+**Description**: Write a program to find the sum of the digits of the product of two given numbers.
+
+**Example**:
+- Input: `number1 = 12`, `number2 = 34`
+- Output: `12`
+- Explanation: The product of 12 and 34 is 408, and the sum of its digits is 4 + 0 + 8 = 12.
+
+---
+
+### 74. Checking for Palindromic Numbers in a Range
+
+**Difficulty**: Medium  
+**Topics**: Mathematical Computations
+
+**Description**: Write a program to check for palindromic numbers within a given range.
+
+**Example**:
+- Input: `start = 1`, `end = 100`
+- Output: `[1, 2, 3, 4, 5, 6, 7, 8, 9, 11, 22, 33, 44, 55, 66, 77, 88, 99]`
+- Explanation: Palindromic numbers between 1 and 100 are the numbers listed.
+
+---
+
+### 75. Generating a Matrix with Alternating 0s and 1s
+
+**Difficulty**: Easy  
+**Topics**: Arrays, Matrix Operations
+
+**Description**: Write a program to generate a matrix where the elements alternate between 0 and 1.
+
+**Example**:
+- Input: `size = 3`
+- Output:
+```
+0 1 0
+1 0 1
+0 1 0
+```
+
+---
+
+### 76. Finding the Count of a Specific Word in a String
+
+**Difficulty**: Easy  
+**Topics**: String Manipulation
+
+**Description**: Write a program to count how many times a specific word appears in a given string.
+
+**Example**:
+- Input: `string = "hello world hello"`
+- Output: `2`
+- Explanation: The word "hello" appears 2 times in the string.
+
+---
+
+### 77. Finding the Largest Sum of a Subarray
+
+**Difficulty**: Medium  
+**Topics**: Arrays, Dynamic Programming
+
+**Description**: Write a program to find the largest sum of any contiguous subarray.
+
+**Example**:
+- Input: `array = [-2, 1, -3, 4, -1, 2, 1, -5, 4]`
+- Output: `6`
+- Explanation: The largest sum is 6, from the subarray `[4, -1, 2, 1]`.
+
+---
+
+### 78. Generating a Right-Angle Triangle Pattern of Numbers
+
+**Difficulty**: Easy  
+**Topics**: Patterns
+
+**Description**: Write a program to create a right-angle triangle pattern with numbers.
+
+**Example**:
+- Input: `height = 4`
+- Output:
+```
+1
+12
+123
+1234
+```
+
+---
+
+### 79. Finding All Divisors of the Product of Two Numbers
+
+**Difficulty**: Medium  
+**Topics**: Number Theory
+
+**Description**: Write a program to find all divisors of the product of two given numbers.
+
+**Example**:
+- Input: `number1 = 6`, `number2 = 10`
+- Output: `[1, 2, 3, 5, 6, 10, 15, 30]`
+- Explanation: The product of 6 and 10 is 60, and its divisors are listed.
+
+---
+
+### 80. Finding the Longest Sequence of Consecutive 1s in a Binary Array
+
+**Difficulty**: Medium  
+**Topics**: Arrays, Binary Operations
+
+**Description**: Write a program to find the longest sequence of consecutive 1s in a binary array.
+
+**Example**:
+- Input: `array = [1, 1, 0, 1, 1, 1]`
+- Output: `3`
+- Explanation: The longest sequence of 1s is `[1, 1, 1]` with length 3.
+
+---
+
+### 81. Calculating the Sum of the First N Fibonacci Numbers
+
+**Difficulty**: Medium  
+**Topics**: Fibonacci Sequence, Mathematical Computations
+
+**Description**: Write a program to calculate the sum of the first N Fibonacci numbers.
+
+**Example**:
+- Input: `N = 5`
+- Output: `12`
+- Explanation: The first 5 Fibonacci numbers are 1, 1, 2, 3, 5, and their sum is 12.
+
+---
+
+### 82. Checking for a Repeated Substring in a String
+
+**Difficulty**: Medium  
+**Topics**: String Manipulation
+
+**Description**: Write a program to check if a substring is repeated within a given string.
+
+**Example**:
+- Input: `string = "abab"`
+- Output: `True`
+- Explanation: The substring "ab" is repeated.
+
+---
+
+### 83. Finding the Median of a List of Numbers
+
+**Difficulty**: Medium  
+**Topics**: Sorting, Mathematical Computations
+
+**Description**: Write a program to find the median value of a list of numbers.
+
+**Example**:
+- Input: `list = [3, 1, 4, 1, 5]`
+- Output: `3`
+- Explanation: After sorting the list to [1, 1, 3, 4, 5], the median is 3.
+
+---
+
+### 84. Finding the Number of Words in a String
+
+**Difficulty**: Easy  
+**Topics**: String Manipulation
+
+**Description**: Write a program to count the number of words in a given string.
+
+**Example**:
+- Input: `string = "Hello world"`
+- Output: `2`
+- Explanation: There are 2 words in the string.
+
+---
+
+### 85. Generating a Matrix with a Diagonal Pattern
+
+**Difficulty**: Medium  
+**Topics**: Matrix Operations
+
+**Description**: Write a program to create a matrix where elements form diagonal lines of a given pattern.
+
+**Example**:
+- Input: `size = 4`
+- Output:
+```
+1 0 0 0
+1 1 0 0
+1 1 1 0
+1 1 1 1
+```
+
+---
+
+### 86. Finding the Sum of the First N Even Numbers
+
+**Difficulty**: Easy  
+**Topics**: Mathematical Computations
+
+**Description**: Write a program to calculate the sum of the first N even numbers.
+
+**Example**:
+- Input: `N = 4`
+- Output: `20`
+- Explanation: The first 4 even numbers are 2, 4, 6, 8, and their sum is 20.
+
+---
+
+### 87. Finding the Count of Digits Greater Than a Specific Value
+
+**Difficulty**: Easy  
+**Topics**: Mathematical Computations
+
+**Description**: Write a program to count how many digits in a number are greater than a specific value.
+
+**Example**:
+- Input: `number = 54321`, `value = 3`
+- Output: `2`
+- Explanation: The digits greater than 3 in 54321 are 5 and 4, so the count is 2.
+
+---
+
+### 88. Generating a Pattern of Prime Numbers
+
+**Difficulty**: Medium  
+**Topics**: Prime Numbers, Patterns
+
+**Description**: Write a program to generate a pattern where each row contains the first few prime numbers.
+
+**Example**:
+- Input: `rows = 3`
+- Output:
+```
+2
+2 3
+2 3 5
+```
+
+---
+
+### 89. Finding the Common Elements in Two Arrays
+
+**Difficulty**: Medium  
+**Topics**: Arrays
+
+**Description**: Write a program to find common elements between two arrays.
+
+**Example**:
+- Input: `array1 = [1, 2, 3, 4]`, `array2 = [3, 4, 5, 6]`
+- Output: `[3, 4]`
+- Explanation: The common elements between the two arrays are 3 and 4.
+
+---
+
+### 90. Finding the Sum of the Squares of All Even Numbers Up to N
+
+**Difficulty**: Medium  
+**Topics**: Mathematical Computations
+
+**Description**: Write a program to calculate the sum of squares of all even numbers up to a given N.
+
+**Example**:
+- Input: `N = 4`
+- Output: `20`
+- Explanation: The even numbers up to 4 are 2 and 4, and their squares are 4 and 16. The sum is 20.
+
+---
+
+### 91. Generating a Pattern of Increasing Numbers
+
+**Difficulty**: Easy  
+**Topics**: Patterns
+
+**Description**: Write a program to create a pattern where numbers increase with each row.
+
+**Example**:
+- Input: `rows = 3`
+- Output:
+```
+1
+12
+123
+```
+
+---
+
+### 92. Finding the Largest Element in Each Row of a Matrix
+
+**Difficulty**: Easy  
+**Topics**: Matrix Operations
+
+**Description**: Write a program to find the largest element in each row of a matrix.
+
+**Example**:
+- Input: `matrix = [[1, 2, 3], [4, 5, 6], [7, 8, 9]]`
+- Output: `[3, 6, 9]`
+- Explanation: The largest elements in each row are 3, 6, and 9.
+
+---
+
+### 93. Checking for Anagram Pairs in a List of Strings
+
+**Difficulty**: Medium  
+**Topics**: String Manipulation
+
+**Description**: Write a program to find pairs of strings in a list that are anagrams of each other.
+
+**Example**:
+- Input: `strings = ["listen", "silent", "hello", "world"]`
+- Output: `[("listen", "silent")]`
+- Explanation: "listen" and "silent" are anagrams.
+
+---
+
+### 94. Finding the Frequency of Each Character in a String
+
+**Difficulty**: Easy  
+**Topics**: String Manipulation
+
+**Description**: Write a program to count the frequency of each character in a given string.
+
+**Example**:
+- Input: `string = "hello"`
+- Output: `{'h': 1, 'e': 1, 'l': 2, 'o': 1}`
+- Explanation: The frequency of each character in the string "hello" is shown.
+
+---
+
+### 95. Generating a Matrix with Random Numbers
+
+**Difficulty**: Easy  
+**Topics**: Random Number Generation, Matrix Operations
+
+**Description**: Write a program to generate a matrix filled with random numbers.
+
+**Example**:
+- Input: `rows = 2`, `columns = 3`
+- Output:
+```
+3 8 1
+7 4 6
+```
+
+---
+
+### 96. Finding the Length of the Longest Word in a String
+
+**Difficulty**: Easy  
+**Topics**: String Manipulation
+
+**Description**: Write a program to find the length of the longest word in a given string.
+
+**Example**:
+- Input: `string = "Find the longest word"`
+- Output: `8`
+- Explanation: The longest word is "longest" with length 8.
+
+---
+
+### 97. Finding All Triplets in an Array That Sum to Zero
+
+**Difficulty**: Medium  
+**Topics**: Arrays, Sorting
+
+**Description**: Write a program to find all unique triplets in an array that sum to zero.
+
+**Example**:
+- Input: `array = [-1, 0, 1, 2, -1, -4]`
+- Output: `[[-1, -1, 2], [-1, 0, 1]]`
+- Explanation: The unique triplets that sum to zero are listed.
+
+---
+
+### 98. Generating a Square Matrix with Random Values
+
+**Difficulty**: Easy  
+**Topics**: Random Number Generation, Matrix Operations
+
+**Description**: Write a program to generate a square matrix where each element is a random value.
+
+**Example**:
+- Input: `size = 3`
+- Output:
+```
+7 3 5
+2 6 9
+1 8 4
+```
+
+---
+
+### 99. Finding the Difference Between the Sum of Even and Odd Numbers in an Array
+
+**Difficulty**: Easy  
+**Topics**: Arrays, Mathematical Computations
+
+**Description**: Write a program to calculate the difference between the sum of even and odd numbers in an array.
+
+**Example**:
+- Input: `array = [1, 2, 3, 4, 5, 6]`
+- Output: `4`
+- Explanation: The sum of even numbers is 12, and the sum of odd numbers is 8. The difference is 4.
+
+---
+
+### 100. Generating a Triangle Pattern of Stars with a Given Height
+
+**Difficulty**: Easy  
+**Topics**: Patterns
+
+**Description**: Write a program to create a triangle pattern of stars with a specified height.
+
+**Example**:
+- Input: `height = 4`
+- Output:
+```
+*
+**
+***
+****
+```
+
+---
+
+### 101. Print a Right-Angle Triangle of Stars
+
+**Difficulty**: Easy  
+**Topics**: Pattern Printing
+
+**Description**: Print a right-angle triangle pattern of stars (`*`). Each row should contain an increasing number of stars, starting from 1 star in the first row.
+
+**Example**:
+- Input: `n = 4`
+- Output:
+```
+*
+**
+***
+****
+```
+
+---
+
+### 102. Print a Square of Stars
+
+**Difficulty**: Easy  
+**Topics**: Pattern Printing
+
+**Description**: Print a square pattern of stars (`*`). Each row and column should have the same number of stars.
+
+**Example**:
+- Input: `n = 5`
+- Output:
+```
+*****
+*****
+*****
+*****
+*****
+```
+
+---
+
+### 103. Print a Pyramid Pattern
+
+**Difficulty**: Easy  
+**Topics**: Pattern Printing
+
+**Description**: Print a pyramid pattern with stars (`*`). The pyramid should have a single peak and each row should have an increasing number of stars, centered horizontally.
+
+**Example**:
+- Input: `n = 3`
+- Output:
+```
+  *
+ ***
+*****
+```
+
+---
+
+### 104. Print a Diamond Pattern
+
+**Difficulty**: Easy  
+**Topics**: Pattern Printing
+
+**Description**: Print a diamond pattern with stars (`*`). The pattern should include a single peak in the middle with symmetric rows above and below it.
+
+**Example**:
+- Input: `n = 3`
+- Output:
+```
+  *
+ ***
+*****
+ ***
+  *
+```
+
+---
+
+### 105. Print a Hollow Square of Stars
+
+**Difficulty**: Easy  
+**Topics**: Pattern Printing
+
+**Description**: Print a hollow square pattern with stars (`*`). The border of the square should be filled with stars while the inner part should be empty.
+
+**Example**:
+- Input: `n = 5`
+- Output:
+```
+*****
+*   *
+*   *
+*   *
+*****
+```
+
+---
+
+### 106. Print a Number Triangle
+
+**Difficulty**: Easy  
+**Topics**: Pattern Printing
+
+**Description**: Print a right-angle triangle pattern with numbers. Each row should contain an increasing sequence of numbers starting from 1.
+
+**Example**:
+- Input: `n = 4`
+- Output:
+```
+1
+12
+123
+1234
+```
+
+---
+
+### 107. Print an Inverted Triangle Pattern
+
+**Difficulty**: Easy  
+**Topics**: Pattern Printing
+
+**Description**: Print an inverted triangle pattern with stars (`*`). Each row should contain decreasing numbers of stars from the top row.
+
+**Example**:
+- Input: `n = 5`
+- Output:
+```
+*****
+ ****
+  ***
+   **
+    *
+```
+
+---
+
+### 108. Print a Diamond Pattern with Numbers
+
+**Difficulty**: Easy  
+**Topics**: Pattern Printing
+
+**Description**: Print a diamond pattern with numbers. The pattern should have a peak in the middle with symmetric rows above and below it.
+
+**Example**:
+- Input: `n = 3`
+- Output:
+```
+  1
+ 121
+12321
+ 121
+  1
+```
+
+---
+
+### 109. Print a Right-Angle Triangle of Numbers
+
+**Difficulty**: Easy  
+**Topics**: Pattern Printing
+
+**Description**: Print a right-angle triangle pattern with increasing numbers. Each row should contain a continuous sequence of increasing numbers.
+
+**Example**:
+- Input: `n = 4`
+- Output:
+```
+1
+23
+456
+78910
+```
+
+---
+
+### 110. Print a Pyramid Pattern with Numbers
+
+**Difficulty**: Easy  
+**Topics**: Pattern Printing
+
+**Description**: Print a pyramid pattern with increasing numbers. Each row should have an increasing sequence of numbers, centered horizontally.
+
+**Example**:
+- Input: `n = 3`
+- Output:
+```
+  1
+ 232
+34543
+```
+
+---
+
+### 111. Print a Pattern of Alternating 0s and 1s
+
+**Difficulty**: Medium  
+**Topics**: Matrix Pattern
+
+**Description**: Print a matrix where elements alternate between `0` and `1`. The pattern should alternate both row-wise and column-wise.
+
+**Example**:
+- Input: `n = 4`
+- Output:
+```
+0101
+1010
+0101
+1010
+```
+
+---
+
+### 112. Print a Pascal's Triangle
+
+**Difficulty**: Medium  
+**Topics**: Matrix Pattern
+
+**Description**: Print Pascal's Triangle up to `N` rows. Each row should be constructed based on the sum of the elements directly above it in the previous row.
+
+**Example**:
+- Input: `n = 4`
+- Output:
+```
+   1
+  1 1
+ 1 2 1
+1 3 3 1
+```
+
+---
+
+### 113. Print a Pattern of Consecutive Numbers
+
+**Difficulty**: Medium  
+**Topics**: Matrix Pattern
+
+**Description**: Print a matrix of consecutive numbers starting from 1, filling rows sequentially.
+
+**Example**:
+- Input: `n = 3`
+- Output:
+```
+1 2 3
+4 5 6
+7 8 9
+```
+
+---
+
+### 114. Print a Star Pattern with Increasing Width
+
+**Difficulty**: Medium  
+**Topics**: Pattern Printing
+
+**Description**: Print a pattern where each row has an increasing width of stars.
+
+**Example**:
+- Input: `n = 3`
+- Output:
+```
+*
+***
+*****
+```
+
+---
+
+### 115. Print a Right-Angle Triangle Pattern with Characters
+
+**Difficulty**: Medium  
+**Topics**: Pattern Printing
+
+**Description**: Print a right-angle triangle pattern using characters. Each row should contain the same character repeated according to the row number.
+
+**Example**:
+- Input: `n = 3`
+- Output:
+```
+A
+BB
+CCC
+```
+
+---
+
+### 116. Print a Checkerboard Pattern
+
+**Difficulty**: Medium  
+**Topics**: Matrix Pattern
+
+**Description**: Print a checkerboard pattern with two different characters alternating.
+
+**Example**:
+- Input: `n = 4`
+- Output:
+```
+XOXO
+OXOX
+XOXO
+OXOX
+```
+
+---
+
+### 117. Print a Pyramid Pattern of Increasing Stars
+
+**Difficulty**: Medium  
+**Topics**: Pattern Printing
+
+**Description**: Print a pyramid pattern where each row increases in the number of stars.
+
+**Example**:
+- Input: `n = 3`
+- Output:
+```
+  *
+ ***
+*****
+```
+
+---
+
+### 118. Print a Border Pattern with Numbers
+
+**Difficulty**: Medium  
+**Topics**: Matrix Pattern
+
+**Description**: Print a border pattern using numbers. The border should be filled with numbers, and the inner part should be empty.
+
+**Example**:
+- Input: `n = 4`
+- Output:
+```
+1234
+1  1
+1  1
+1234
+```
+
+---
+
+### 119. Print an Inverted Pyramid Pattern with Characters
+
+**Difficulty**: Medium  
+**Topics**: Pattern Printing
+
+**Description**: Print an inverted pyramid pattern using characters. Each row should have decreasing characters from the top row.
+
+**Example**:
+- Input: `n = 3`
+- Output:
+```
+CCC
+ BB
+  A
+```
+
+---
+
+### 120. Print a Cross Pattern with Stars
+
+**Difficulty**: Medium  
+**Topics**: Pattern Printing
+
+**Description**: Print a cross pattern using stars. The cross should be centered within a matrix.
+
+**Example**:
+- Input: `n = 5`
+- Output:
+```
+*   *
+ * *
+  *
+ * *
+*   *
+```
+
+---
+
+### 121. Print a Spiral Matrix
+
+**Difficulty**: Hard  
+**Topics**: Matrix Pattern
+
+**Description**: Print a matrix filled with numbers in a spiral pattern. The numbers should start from 1 and increment as you move around the spiral.
+
+**Example**:
+- Input: `n = 3`
+- Output:
+```
+1 2 3
+8 9 4
+7 6 5
+```
+
+---
+
+### 122. Print a Diamond Pattern with Increasing Width
+
+**Difficulty**: Hard  
+**Topics**: Pattern Printing
+
+**Description**: Print a diamond pattern where each line has increasing width of stars.
+
+**Example**:
+- Input: `n = 3`
+- Output:
+```
+  *
+ ***
+*****
+ ***
+  *
+```
+
+---
+
+### 123. Print a Diamond Pattern with Numbers Increasing
+
+**Difficulty**: Hard  
+**Topics**: Pattern Printing
+
+**Description**: Print a diamond pattern where numbers increase. Each row should show a symmetrical pattern with numbers increasing towards the center.
+
+**Example**:
+- Input: `n = 3`
+- Output:
+```
+  1
+ 121
+12321
+ 121
+  1
+```
+
+---
+
+### 124. Print a Pattern of Increasing and Decreasing Stars
+
+**Difficulty**: Hard  
+**Topics**: Pattern Printing
+
+**Description**: Print a pattern where stars increase to a midpoint and then decrease.
+
+**Example**:
+- Input: `n = 3`
+- Output:
+```
+  *
+ ***
+*****
+ ***
+  *
+```
+
+---
+
+### 125. Print a Matrix with Zigzag Pattern
+
+**Difficulty**: Hard  
+**Topics**: Matrix Pattern
+
+**Description**: Print a matrix with a zigzag pattern of numbers. The numbers should alternate direction row-wise.
+
+**Example**:
+- Input: `n = 3`
+- Output:
+```
+1 2 3
+6 5 4
+7 8 9
+```
+
+---
+
+### 126. Print a Pattern of Alternating Characters in Rows
+
+**Difficulty**: Hard  
+**Topics**: Pattern Printing
+
+**Description**: Print a pattern where rows alternate between two characters.
+
+**Example**:
+- Input: `n = 4`
+- Output:
+```
+ABAB
+BABA
+ABAB
+BABA
+```
+
+---
+
+### 127. Print a Number Pyramid Pattern with Characters
+
+**Difficulty**: Hard  
+**Topics**: Pattern Printing
+
+**Description**: Print a pyramid pattern using increasing characters, where each row increases in width and character range.
+
+**Example**:
+- Input: `n = 3`
+- Output:
+```
+  A
+ BCD
+EFGHI
+```
+
+---
+
+### 128. Print a Pattern with Diagonal Lines
+
+**Difficulty**: Hard  
+**Topics**: Pattern Printing
+
+**Description**: Print a pattern with diagonal lines using characters. Each diagonal line should be aligned properly.
+
+**Example**:
+- Input: `n = 4`
+- Output:
+```
+A
+B B
+C   C
+D     D
+```
+
+---
+
+### 129. Print a Matrix with Diamond Pattern of Numbers
+
+**Difficulty**: Hard  
+**Topics**: Matrix Pattern
+
+**Description**: Print a matrix where elements follow a diamond pattern with numbers.
+
+**Example**:
+- Input: `n = 3`
+- Output:
+```
+  1
+ 121
+12321
+ 121
+  1
+```
+
+---
+
+### 130. Print a Cross Pattern of Stars with Diagonals
+
+**Difficulty**: Hard  
+**Topics**: Pattern Printing
+
+**Description**: Print a cross pattern using stars with intersecting diagonals.
+
+**Example**:
+- Input: `n = 5`
+- Output:
+```
+*   *
+ * *
+  *
+ * *
+*   *
+```
+
+---
+
+### 131. Print a Triangular Matrix with Numbers
+
+**Difficulty**: Easy  
+**Topics**: Pattern Printing
+
+**Description**: Print a triangular matrix where each row contains increasing numbers. Each subsequent row should start from the next number.
+
+**Example**:
+- Input: `n = 3`
+- Output:
+```
+1
+2 3
+4 5 6
+```
+
+---
+
+### 132. Print a Star Pattern with Increasing and Decreasing Width
+
+**Difficulty**: Medium  
+**Topics**: Pattern Printing
+
+**Description**: Print a pattern with stars that increase to a midpoint and then decrease. The stars should be centered horizontally.
+
+**Example**:
+- Input: `n = 3`
+- Output:
+```
+  *
+ ***
+*****
+ ***
+  *
+```
+
+---
+
+### 133. Print a Pattern of Nested Squares
+
+**Difficulty**: Medium  
+**Topics**: Pattern Printing
+
+**Description**: Print a pattern with nested squares using stars. The outermost square should be filled with stars, and each subsequent square should be smaller and centered inside the previous one.
+
+**Example**:
+- Input: `n = 5`
+- Output:
+```
+*****
+*   *
+*   *
+*   *
+*****
+```
+
+---
+
+### 134. Print a Pattern with Increasing Characters in Columns
+
+**Difficulty**: Medium  
+**Topics**: Pattern Printing
+
+**Description**: Print a pattern where each column contains increasing characters from `A`.
+
+**Example**:
+- Input: `n = 3`
+- Output:
+```
+A
+B C
+D E F
+```
+
+---
+
+### 135. Print a Matrix with Spiral Diagonals
+
+**Difficulty**: Hard  
+**Topics**: Matrix Pattern
+
+**Description**: Print a matrix with numbers arranged in diagonal spirals. The numbers should fill the matrix in a diagonal spiral fashion.
+
+**Example**:
+- Input: `n = 3`
+- Output:
+```
+1 2 3
+4 5 6
+7 8 9
+```
+
+---
+
+### 136. Print a Checkerboard Pattern with Increasing Size
+
+**Difficulty**: Medium  
+**Topics**: Pattern Printing
+
+**Description**: Print a checkerboard pattern where the size of each square increases as you move along the matrix.
+
+**Example**:
+- Input: `n = 3`
+- Output:
+```
+XOX
+OXO
+XOX
+```
+
+---
+
+### 137. Print a Cross Pattern with Increasing Size
+
+**Difficulty**: Medium  
+**Topics**: Pattern Printing
+
+**Description**: Print a cross pattern where the size of the cross increases with each row. The pattern should be centered.
+
+**Example**:
+- Input: `n = 3`
+- Output:
+```
+  *
+ ***
+*****
+ ***
+  *
+```
+
+---
+
+### 138. Print a Pattern of Alternating Triangles
+
+**Difficulty**: Medium  
+**Topics**: Pattern Printing
+
+**Description**: Print a pattern with alternating triangles of stars. The triangles should alternate direction.
+
+**Example**:
+- Input: `n = 3`
+- Output:
+```
+  *
+ ***
+*****
+ ***
+  *
+```
+
+---
+
+### 139. Print a Matrix with Diamond Pattern of Numbers
+
+**Difficulty**: Medium  
+**Topics**: Pattern Printing
+
+**Description**: Print a matrix where numbers form a diamond pattern. The numbers should increase and decrease symmetrically around the center.
+
+**Example**:
+- Input: `n = 3`
+- Output:
+```
+  1
+ 121
+12321
+ 121
+  1
+```
+
+---
+
+### 140. Print a Star Pattern with Increasing Width and Centered
+
+**Difficulty**: Medium  
+**Topics**: Pattern Printing
+
+**Description**: Print a pattern where the width of stars increases, and the stars are centered horizontally.
+
+**Example**:
+- Input: `n = 3`
+- Output:
+```
+  *
+ ***
+*****
+```
+
+---
+
+### 141. Print a Pattern with Spiral and Zigzag
+
+**Difficulty**: Hard  
+**Topics**: Matrix Pattern
+
+**Description**: Print a matrix with both spiral and zigzag patterns. The matrix should first fill in a spiral pattern and then in a zigzag fashion.
+
+**Example**:
+- Input: `n = 3`
+- Output:
+```
+1 2 3
+6 5 4
+7 8 9
+```
+
+---
+
+### 142. Print a Pattern of Alternating Characters in Matrix
+
+**Difficulty**: Medium  
+**Topics**: Pattern Printing
+
+**Description**: Print a matrix where characters alternate in each cell to form a pattern.
+
+**Example**:
+- Input: `n = 3`
+- Output:
+```
+ABAB
+BABA
+ABAB
+```
+
+---
+
+### 143. Print a Pattern with Nested Triangles
+
+**Difficulty**: Medium  
+**Topics**: Pattern Printing
+
+**Description**: Print a pattern with nested triangles of stars. Each triangle should be centered and decrease in size.
+
+**Example**:
+- Input: `n = 3`
+- Output:
+```
+  *
+ ***
+*****
+ ***
+  *
+```
+
+---
+
+### 144. Print a Matrix with Increasing Rows and Columns
+
+**Difficulty**: Easy  
+**Topics**: Matrix Pattern
+
+**Description**: Print a matrix where each row and column contains increasing numbers.
+
+**Example**:
+- Input: `n = 3`
+- Output:
+```
+1 2 3
+4 5 6
+7 8 9
+```
+
+---
+
+### 145. Print a Pattern with Rows of Increasing Characters
+
+**Difficulty**: Medium  
+**Topics**: Pattern Printing
+
+**Description**: Print a pattern where each row contains an increasing sequence of characters.
+
+**Example**:
+- Input: `n = 3`
+- Output:
+```
+A
+BC
+DEF
+```
+
+---
+
+### 146. Print a Star Pattern with Diamond Shape and Numbers
+
+**Difficulty**: Medium  
+**Topics**: Pattern Printing
+
+**Description**: Print a pattern with a diamond shape of stars, with numbers inside the diamond.
+
+**Example**:
+- Input: `n = 3`
+- Output:
+```
+  1
+ 121
+12321
+ 121
+  1
+```
+
+---
+
+### 147. Print a Matrix with Cross Pattern of Numbers
+
+**Difficulty**: Hard  
+**Topics**: Matrix Pattern
+
+**Description**: Print a matrix where the center forms a cross pattern with numbers.
+
+**Example**:
+- Input: `n = 5`
+- Output:
+```
+12321
+01210
+01210
+01210
+12321
+```
+
+---
+
+### 148. Print a Pattern with Concentric Squares
+
+**Difficulty**: Medium  
+**Topics**: Pattern Printing
+
+**Description**: Print a pattern with concentric squares using stars. The outer square should be larger and each subsequent square should be centered inside.
+
+**Example**:
+- Input: `n = 5`
+- Output:
+```
+*****
+*   *
+*   *
+*   *
+*****
+```
+
+---
+
+### 149. Print a Pattern of Alternating Rows and Columns of Numbers
+
+**Difficulty**: Easy  
+**Topics**: Pattern Printing
+
+**Description**: Print a pattern with alternating rows and columns of numbers, where each row and column increases sequentially.
+
+**Example**:
+- Input: `n = 3`
+- Output:
+```
+123
+456
+789
+```
+
+---
+
+### 150. Print a Matrix with Zigzag Pattern of Stars
+
+**Difficulty**: Medium  
+**Topics**: Pattern Printing
+
+**Description**: Print a matrix where stars form a zigzag pattern, alternating rows in their positioning.
+
+**Example**:
+- Input: `n = 3`
+- Output:
+```
+* * *
+ * *
+* * *
+```
+
+---
+
 ## 📌 Notes
 
 More problems will be added soon. Stay tuned for new uploads on YouTube! 🎥✨
 
-For solutions and detailed explanations, check out the `/solutions` directory or watch the corresponding YouTube videos.
+For solutions and detailed explanations, check out the *[/solutions](../solutions/)* directory or watch the corresponding YouTube videos.

@@ -6,7 +6,7 @@ Welcome to **Code Before DSA** - a comprehensive YouTube series where I, **[Shub
 
 ## 📺 Watch the Series
 
-### Watch the complete series here on **[ShubhDEVs](https://youtube.com/@shubhdevs)** → **[YouTube Playlist](https://youtube.com/@shubhdevs)**
+### Watch the complete series here on **[ShubhDEVs](https://youtube.com/@shubhdevs)** → **[YouTube Playlist](https://youtube.com/playlist?list=PLsWLOBFxUwM53Kr1RUqraEQbUcT5Jq3Jk)**
 
 ## 🎯 About This Repository
 
