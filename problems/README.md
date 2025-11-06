@@ -7,8 +7,8 @@ This is the complete list of problems in the **Code Before DSA** series. Each pr
 | No. | Problem Name | Problem Link | Solution | YouTube Explanation Video |
 |-----|--------------|--------------|----------|---------------|
 | 1 | Determining Even/Odd Numbers | [View Problem](#1-determining-evenodd-numbers) | **[C++](../solutions/cpp/001_evenOdd.cpp)** | [Watch](https://youtu.be/pQdXKbg9Bg0) |
-| 2 | Checking for Prime Numbers | [View Problem](#2-checking-for-prime-numbers) |  | [Watch](https://youtube.com/@shubhdevs) |
-| 3 | Validating Leap Years | [View Problem](#3-validating-leap-years) |  | [Watch](https://youtube.com/@shubhdevs) |
+| 2 | Checking for Prime Numbers | [View Problem](#2-checking-for-prime-numbers) | **[C++](../solutions/cpp/002_primenumber.cpp)** | [Watch](https://www.youtube.com/watch?v=AgPzY1PMWfk) |
+| 3 | Validating Leap Years | [View Problem](#3-validating-leap-years) | **[C++](../solutions/cpp/003_leapyear.cpp)** | [Watch](https://youtube.com/@shubhdevs) |
 | 4 | Calculating Armstrong Numbers | [View Problem](#4-calculating-armstrong-numbers) |  | [Watch](https://youtube.com/@shubhdevs) |
 | 5 | Generating the Fibonacci Series | [View Problem](#5-generating-the-fibonacci-series) |  | [Watch](https://youtube.com/@shubhdevs) |
 | 6 | Identifying Palindromes | [View Problem](#6-identifying-palindromes) |  | [Watch](https://youtube.com/@shubhdevs) |
@@ -156,106 +156,6 @@ This is the complete list of problems in the **Code Before DSA** series. Each pr
 | 148 | Print a Pattern with Concentric Squares | [View Problem](#148-print-a-pattern-with-concentric-squares) |  | [Watch](https://youtube.com/@shubhdevs) |
 | 149 | Print a Pattern of Alternating Rows and Columns of Numbers | [View Problem](#149-print-a-pattern-of-alternating-rows-and-columns-of-numbers) |  | [Watch](https://youtube.com/@shubhdevs) |
 | 150 | Print a Matrix with Zigzag Pattern of Stars | [View Problem](#150-print-a-matrix-with-zigzag-pattern-of-stars) |  | [Watch](https://youtube.com/@shubhdevs) |
-
-## 📂 Problems by Category
-
-<details>
-<summary><strong>Basics</strong></summary>
-
-| No. | Problem Name | Solution | YouTube Video |
-|-----|--------------|----------|---------------|
-| 1 | Determining Even/Odd Numbers | **[C++](../solutions/cpp/001_evenOdd.cpp)**  | [Watch](https://youtube.com/@shubhdevs) |
-| 3 | Validating Leap Years |  | [Watch](https://youtube.com/@shubhdevs) |
-| 8 | Finding the Factorial of a Number |  | [Watch](https://youtube.com/@shubhdevs) |
-| 9 | Summing Digits of a Number |  | [Watch](https://youtube.com/@shubhdevs) |
-| 10 | Finding the Greatest Common Divisor (GCD) |  | [Watch](https://youtube.com/@shubhdevs) |
-| 11 | Finding the Least Common Multiple (LCM) |  | [Watch](https://youtube.com/@shubhdevs) |
-| 25 | Finding the Number of Digits in a Number |  | [Watch](https://youtube.com/@shubhdevs) |
-| 33 | Calculating the Power of a Number |  | [Watch](https://youtube.com/@shubhdevs) |
-| 36 | Finding the N-th Triangular Number |  | [Watch](https://youtube.com/@shubhdevs) |
-| 37 | Checking for Perfect Squares |  | [Watch](https://youtube.com/@shubhdevs) |
-| 38 | Finding the Sum of Squares of Digits |  | [Watch](https://youtube.com/@shubhdevs) |
-| 40 | Calculating the Sum of Digits of a Number Until Single Digit |  | [Watch](https://youtube.com/@shubhdevs) |
-| 41 | Finding the Count of Specific Digits in a Number |  | [Watch](https://youtube.com/@shubhdevs) |
-| 43 | Finding All Divisors of a Number |  | [Watch](https://youtube.com/@shubhdevs) |
-
-</details>
-
-<details>
-<summary><strong>Number Theory</strong></summary>
-
-| No. | Problem Name | Solution | YouTube Video |
-|-----|--------------|----------|---------------|
-| 2 | Checking for Prime Numbers |  | [Watch](https://youtube.com/@shubhdevs) |
-| 4 | Calculating Armstrong Numbers |  | [Watch](https://youtube.com/@shubhdevs) |
-| 17 | Checking for Armstrong Numbers in a Range |  | [Watch](https://youtube.com/@shubhdevs) |
-| 19 | Finding Prime Numbers in a Range |  | [Watch](https://youtube.com/@shubhdevs) |
-| 20 | Checking for Perfect Numbers |  | [Watch](https://youtube.com/@shubhdevs) |
-| 24 | Printing Prime Numbers Less Than a Given Number |  | [Watch](https://youtube.com/@shubhdevs) |
-| 26 | Checking if a Number is a Narcissistic Number |  | [Watch](https://youtube.com/@shubhdevs) |
-| 35 | Finding the Sum of Prime Numbers in a Range |  | [Watch](https://youtube.com/@shubhdevs) |
-| 48 | Finding the Sum of Prime Factors of a Number |  | [Watch](https://youtube.com/@shubhdevs) |
-
-</details>
-
-<details>
-<summary><strong>Arrays & Sequences</strong></summary>
-
-| No. | Problem Name | Solution | YouTube Video |
-|-----|--------------|----------|---------------|
-| 5 | Generating the Fibonacci Series |  | [Watch](https://youtube.com/@shubhdevs) |
-| 14 | Finding the Largest and Smallest Numbers in an Array |  | [Watch](https://youtube.com/@shubhdevs) |
-| 15 | Sorting an Array |  | [Watch](https://youtube.com/@shubhdevs) |
-| 16 | Finding the Sum of Elements in an Array |  | [Watch](https://youtube.com/@shubhdevs) |
-| 23 | Finding the Fibonacci Number at a Specific Position |  | [Watch](https://youtube.com/@shubhdevs) |
-| 30 | Finding Missing Numbers in a Sequence |  | [Watch](https://youtube.com/@shubhdevs) |
-| 31 | Generating a Pascal's Triangle |  | [Watch](https://youtube.com/@shubhdevs) |
-| 32 | Finding the Median of an Array |  | [Watch](https://youtube.com/@shubhdevs) |
-| 39 | Generating a Square Matrix of a Given Size |  | [Watch](https://youtube.com/@shubhdevs) |
-| 42 | Generating a Fibonacci Sequence Using Recursion |  | [Watch](https://youtube.com/@shubhdevs) |
-| 44 | Finding the Average of Numbers in an Array |  | [Watch](https://youtube.com/@shubhdevs) |
-| 45 | Finding the Mode of Numbers in an Array |  | [Watch](https://youtube.com/@shubhdevs) |
-| 49 | Finding the Second Largest Number in an Array |  | [Watch](https://youtube.com/@shubhdevs) |
-
-</details>
-
-<details>
-<summary><strong>String Manipulation</strong></summary>
-
-| No. | Problem Name | Solution | YouTube Video |
-|-----|--------------|----------|---------------|
-| 6 | Identifying Palindromes |  | [Watch](https://youtube.com/@shubhdevs) |
-| 12 | Counting Vowels and Consonants in a String |  | [Watch](https://youtube.com/@shubhdevs) |
-| 13 | Reversing a String |  | [Watch](https://youtube.com/@shubhdevs) |
-| 29 | Finding the Largest Palindrome in a String |  | [Watch](https://youtube.com/@shubhdevs) |
-| 34 | Checking for an Anagram |  | [Watch](https://youtube.com/@shubhdevs) |
-| 46 | Determining the Length of a String Without Using Built-In Functions |  | [Watch](https://youtube.com/@shubhdevs) |
-| 50 | Finding the Longest Substring Without Repeating Characters |  | [Watch](https://youtube.com/@shubhdevs) |
-
-</details>
-
-<details>
-<summary><strong>Patterns & Loops</strong></summary>
-
-| No. | Problem Name | Solution | YouTube Video |
-|-----|--------------|----------|---------------|
-| 7 | Crafting Star Patterns |  | [Watch](https://youtube.com/@shubhdevs) |
-| 18 | Generating Multiplication Tables |  | [Watch](https://youtube.com/@shubhdevs) |
-| 21 | Calculating the Sum of Even Numbers in a Range |  | [Watch](https://youtube.com/@shubhdevs) |
-| 22 | Calculating the Sum of Odd Numbers in a Range |  | [Watch](https://youtube.com/@shubhdevs) |
-| 27 | Generating a Pattern of Numbers |  | [Watch](https://youtube.com/@shubhdevs) |
-| 47 | Generating a Number Pyramid |  | [Watch](https://youtube.com/@shubhdevs) |
-
-</details>
-
-<details>
-<summary><strong>Mathematical Computations</strong></summary>
-
-| No. | Problem Name | Solution | YouTube Video |
-|-----|--------------|----------|---------------|
-| 28 | Finding the Sum of the Digits of the Factorial of a Number |  | [Watch](https://youtube.com/@shubhdevs) |
-
-</details>
 
 ## 📝 Problem Descriptions
 
