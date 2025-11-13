@@ -11,7 +11,7 @@ This is the complete list of problems in the **Code Before DSA** series. Each pr
 | 3 | Validating Leap Years | [View Problem](#3-validating-leap-years) | **[C++](../solutions/cpp/003_leapyear.cpp)** | [Watch](https://youtube.com/@shubhdevs) |
 | 4 | Calculating Armstrong Numbers | [View Problem](#4-calculating-armstrong-numbers) | **[C++](../solutions/cpp/004_armstrong.cpp)** | [Watch](https://www.youtube.com/watch?v=6OA_q-j8BdI) |
 | 5 | Generating the Fibonacci Series | [View Problem](#5-generating-the-fibonacci-series) | **[C++](../solutions/cpp/005_fibonacci.cpp)** | [Watch](https://youtube.com/@shubhdevs) |
-| 6 | Identifying Palindromes | [View Problem](#6-identifying-palindromes) |  | [Watch](https://youtube.com/@shubhdevs) |
+| 6 | Identifying Palindromes | [View Problem](#6-identifying-palindromes) | **[C++](../solutions/cpp/006_pallindrome.cpp)** | [Watch](https://youtube.com/@shubhdevs) |
 | 7 | Crafting Star Patterns | [View Problem](#7-crafting-star-patterns) |  | [Watch](https://youtube.com/@shubhdevs) |
 | 8 | Finding the Factorial of a Number | [View Problem](#8-finding-the-factorial-of-a-number) |  | [Watch](https://youtube.com/@shubhdevs) |
 | 9 | Summing Digits of a Number | [View Problem](#9-summing-digits-of-a-number) |  | [Watch](https://youtube.com/@shubhdevs) |
