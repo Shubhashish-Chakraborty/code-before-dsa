@@ -12,9 +12,9 @@ This is the complete list of problems in the **Code Before DSA** series. Each pr
 | 4 | Calculating Armstrong Numbers | [View Problem](#4-calculating-armstrong-numbers) | **[C++](../solutions/cpp/004_armstrong.cpp)** | [Watch](https://www.youtube.com/watch?v=6OA_q-j8BdI) |
 | 5 | Generating the Fibonacci Series | [View Problem](#5-generating-the-fibonacci-series) | **[C++](../solutions/cpp/005_fibonacci.cpp)** | [Watch](https://youtube.com/@shubhdevs) |
 | 6 | Identifying Palindromes | [View Problem](#6-identifying-palindromes) | **[C++](../solutions/cpp/006_pallindrome.cpp)** | [Watch](https://youtube.com/@shubhdevs) |
-| 7 | Crafting Star Patterns | [View Problem](#7-crafting-star-patterns) |  | [Watch](https://youtube.com/@shubhdevs) |
+| 7 | Summing Digits of a Number | [View Problem](#7-summing-digits-of-a-number) |  | [Watch](https://youtube.com/@shubhdevs) |
 | 8 | Finding the Factorial of a Number | [View Problem](#8-finding-the-factorial-of-a-number) |  | [Watch](https://youtube.com/@shubhdevs) |
-| 9 | Summing Digits of a Number | [View Problem](#9-summing-digits-of-a-number) |  | [Watch](https://youtube.com/@shubhdevs) |
+| 9 | Crafting Star Patterns | [View Problem](#9-crafting-star-patterns) |  | [Watch](https://youtube.com/@shubhdevs) |
 | 10 | Finding the Greatest Common Divisor (GCD) | [View Problem](#10-finding-the-greatest-common-divisor-gcd) |  | [Watch](https://youtube.com/@shubhdevs) |
 | 11 | Finding the Least Common Multiple (LCM) | [View Problem](#11-finding-the-least-common-multiple-lcm) |  | [Watch](https://youtube.com/@shubhdevs) |
 | 12 | Counting Vowels and Consonants in a String | [View Problem](#12-counting-vowels-and-consonants-in-a-string) |  | [Watch](https://youtube.com/@shubhdevs) |
@@ -243,24 +243,17 @@ This is the complete list of problems in the **Code Before DSA** series. Each pr
 
 ---
 
-### 7. Crafting Star Patterns
+### 7. Summing Digits of a Number
 
 **Difficulty**: Easy  
-**Topics**: Basic Programming, Patterns
+**Topics**: Basic Programming, Mathematical Computations
 
-**Description**: Write a program to create different star patterns (e.g., pyramid, diamond).
+**Description**: Write a program to calculate the sum of digits of a number.
 
 **Example**:
-- Input: `patternType = "pyramid", height = 5`
-- Output:
-```
-    *
-   ***
-  *****
- *******
-*********
-```
-- Explanation: A pyramid pattern with a height of 5 is generated.
+- Input: `number = 1234`
+- Output: `10`
+- Explanation: The sum of the digits 1 + 2 + 3 + 4 = 10.
 
 ---
 
@@ -278,19 +271,24 @@ This is the complete list of problems in the **Code Before DSA** series. Each pr
 
 ---
 
-### 9. Summing Digits of a Number
+### 9. Crafting Star Patterns
 
 **Difficulty**: Easy  
-**Topics**: Basic Programming, Mathematical Computations
+**Topics**: Basic Programming, Patterns
 
-**Description**: Write a program to calculate the sum of digits of a number.
+**Description**: Write a program to create different star patterns (e.g., pyramid, diamond).
 
 **Example**:
-- Input: `number = 1234`
-- Output: `10`
-- Explanation: The sum of the digits 1 + 2 + 3 + 4 = 10.
-
----
+- Input: `patternType = "pyramid", height = 5`
+- Output:
+```
+    *
+   ***
+  *****
+ *******
+*********
+```
+- Explanation: A pyramid pattern with a height of 5 is generated.
 
 ### 10. Finding the Greatest Common Divisor (GCD)
 
