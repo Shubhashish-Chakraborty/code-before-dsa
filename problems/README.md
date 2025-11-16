@@ -8,12 +8,12 @@ This is the complete list of problems in the **Code Before DSA** series. Each pr
 |-----|--------------|--------------|----------|---------------|
 | 1 | Determining Even/Odd Numbers | [View Problem](#1-determining-evenodd-numbers) | **[C++](../solutions/cpp/001_evenOdd.cpp)** | [Watch](https://youtu.be/pQdXKbg9Bg0) |
 | 2 | Checking for Prime Numbers | [View Problem](#2-checking-for-prime-numbers) | **[C++](../solutions/cpp/002_primenumber.cpp)** | [Watch](https://www.youtube.com/watch?v=AgPzY1PMWfk) |
-| 3 | Validating Leap Years | [View Problem](#3-validating-leap-years) | **[C++](../solutions/cpp/003_leapyear.cpp)** | [Watch](https://youtube.com/@shubhdevs) |
+| 3 | Validating Leap Years | [View Problem](#3-validating-leap-years) | **[C++](../solutions/cpp/003_leapyear.cpp)** | [Watch](https://youtu.be/bp9xWBtoLyY) |
 | 4 | Calculating Armstrong Numbers | [View Problem](#4-calculating-armstrong-numbers) | **[C++](../solutions/cpp/004_armstrong.cpp)** | [Watch](https://www.youtube.com/watch?v=6OA_q-j8BdI) |
-| 5 | Generating the Fibonacci Series | [View Problem](#5-generating-the-fibonacci-series) | **[C++](../solutions/cpp/005_fibonacci.cpp)** | [Watch](https://youtube.com/@shubhdevs) |
-| 6 | Identifying Palindromes | [View Problem](#6-identifying-palindromes) | **[C++](../solutions/cpp/006_pallindrome.cpp)** | [Watch](https://youtube.com/@shubhdevs) |
-| 7 | Summing Digits of a Number | [View Problem](#7-summing-digits-of-a-number) |  | [Watch](https://youtube.com/@shubhdevs) |
-| 8 | Finding the Factorial of a Number | [View Problem](#8-finding-the-factorial-of-a-number) |  | [Watch](https://youtube.com/@shubhdevs) |
+| 5 | Generating the Fibonacci Series | [View Problem](#5-generating-the-fibonacci-series) | **[C++](../solutions/cpp/005_fibonacci.cpp)** | [Watch](https://youtu.be/P_qxcuLh6qo) |
+| 6 | Identifying Palindromes | [View Problem](#6-identifying-palindromes) | **[C++](../solutions/cpp/006_pallindrome.cpp)** | [Watch](https://youtu.be/953kmSzNtQo?si=ndPAQH7Z_7y1BI1P) |
+| 7 | Summing Digits of a Number | [View Problem](#7-summing-digits-of-a-number) | **[C++](../solutions/cpp/007_summingDigits.cpp)** | [Watch](https://youtube.com/@shubhdevs) |
+| 8 | Finding the Factorial of a Number | [View Problem](#8-finding-the-factorial-of-a-number) | **[C++](../solutions/cpp/008_factorial.cpp)** | [Watch](https://youtube.com/@shubhdevs) |
 | 9 | Crafting Star Patterns | [View Problem](#9-crafting-star-patterns) |  | [Watch](https://youtube.com/@shubhdevs) |
 | 10 | Finding the Greatest Common Divisor (GCD) | [View Problem](#10-finding-the-greatest-common-divisor-gcd) |  | [Watch](https://youtube.com/@shubhdevs) |
 | 11 | Finding the Least Common Multiple (LCM) | [View Problem](#11-finding-the-least-common-multiple-lcm) |  | [Watch](https://youtube.com/@shubhdevs) |
