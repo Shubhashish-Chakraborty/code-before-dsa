@@ -14,7 +14,7 @@ This is the complete list of problems in the **Code Before DSA** series. Each pr
 | 6 | Identifying Palindromes | [View Problem](#6-identifying-palindromes) | **[C++](../solutions/cpp/006_pallindrome.cpp)** | [Watch](https://youtu.be/953kmSzNtQo?si=ndPAQH7Z_7y1BI1P) |
 | 7 | Summing Digits of a Number | [View Problem](#7-summing-digits-of-a-number) | **[C++](../solutions/cpp/007_summingDigits.cpp)** | [Watch](https://youtube.com/@shubhdevs) |
 | 8 | Finding the Factorial of a Number | [View Problem](#8-finding-the-factorial-of-a-number) | **[C++](../solutions/cpp/008_factorial.cpp)** | [Watch](https://youtube.com/@shubhdevs) |
-| 9 | Crafting Star Patterns | [View Problem](#9-crafting-star-patterns) |  | [Watch](https://youtube.com/@shubhdevs) |
+| 9 | Swap Two Numbers With & Without Using a Third Variable | [View Problem](#9-swap-two-numbers-with--without-using-a-third-variable) |  | [Watch](https://youtube.com/@shubhdevs) |
 | 10 | Finding the Greatest Common Divisor (GCD) | [View Problem](#10-finding-the-greatest-common-divisor-gcd) |  | [Watch](https://youtube.com/@shubhdevs) |
 | 11 | Finding the Least Common Multiple (LCM) | [View Problem](#11-finding-the-least-common-multiple-lcm) |  | [Watch](https://youtube.com/@shubhdevs) |
 | 12 | Counting Vowels and Consonants in a String | [View Problem](#12-counting-vowels-and-consonants-in-a-string) |  | [Watch](https://youtube.com/@shubhdevs) |
@@ -271,24 +271,22 @@ This is the complete list of problems in the **Code Before DSA** series. Each pr
 
 ---
 
-### 9. Crafting Star Patterns
+### 9. Swap Two Numbers With & Without Using a Third Variable
 
-**Difficulty**: Easy  
-**Topics**: Basic Programming, Patterns
+**Difficulty**: Medium
+**Topics**: Basic Programming.
 
-**Description**: Write a program to create different star patterns (e.g., pyramid, diamond).
+**Description**: Write a program to swap the values of two variables (1. with using a third variable, 2. without using a third variable).
 
 **Example**:
-- Input: `patternType = "pyramid", height = 5`
+- Input: `a = 5, b = 10`
 - Output:
-```
-    *
-   ***
-  *****
- *******
-*********
-```
-- Explanation: A pyramid pattern with a height of 5 is generated.
+  ```
+  After swapping:
+  a = 10
+  b = 5
+  ```
+- Explanation: The values stored in variables a and b are exchanged.
 
 ### 10. Finding the Greatest Common Divisor (GCD)
 
