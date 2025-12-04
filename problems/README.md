@@ -15,8 +15,8 @@ This is the complete list of problems in the **Code Before DSA** series. Each pr
 | 7 | Summing Digits of a Number | [View Problem](#7-summing-digits-of-a-number) | **[C++](../solutions/cpp/007_summingDigits.cpp)** | [Watch](https://youtube.com/@shubhdevs) |
 | 8 | Finding the Factorial of a Number | [View Problem](#8-finding-the-factorial-of-a-number) | **[C++](../solutions/cpp/008_factorial.cpp)** | [Watch](https://youtube.com/@shubhdevs) |
 | 9 | Swap Two Numbers With & Without Using a Third Variable | [View Problem](#9-swap-two-numbers-with--without-using-a-third-variable) |  | [Watch](https://youtube.com/@shubhdevs) |
-| 10 | Finding the Greatest Common Divisor (GCD) | [View Problem](#10-finding-the-greatest-common-divisor-gcd) |  | [Watch](https://youtube.com/@shubhdevs) |
-| 11 | Finding the Least Common Multiple (LCM) | [View Problem](#11-finding-the-least-common-multiple-lcm) |  | [Watch](https://youtube.com/@shubhdevs) |
+| 10 | Checking Whether a Number is a Strong Number | [View Problem](#10-checking-whether-a-number-is-a-strong-number) |  | [Watch](https://youtube.com/@shubhdevs) |
+| 11 | Counting the Frequency of Each Character in a String | [View Problem](#11-counting-the-frequency-of-each-character-in-a-string) |  | [Watch](https://youtube.com/@shubhdevs) |
 | 12 | Counting Vowels and Consonants in a String | [View Problem](#12-counting-vowels-and-consonants-in-a-string) |  | [Watch](https://youtube.com/@shubhdevs) |
 | 13 | Reversing a String | [View Problem](#13-reversing-a-string) |  | [Watch](https://youtube.com/@shubhdevs) |
 | 14 | Finding the Largest and Smallest Numbers in an Array | [View Problem](#14-finding-the-largest-and-smallest-numbers-in-an-array) |  | [Watch](https://youtube.com/@shubhdevs) |
@@ -288,31 +288,34 @@ This is the complete list of problems in the **Code Before DSA** series. Each pr
   ```
 - Explanation: The values stored in variables a and b are exchanged.
 
-### 10. Finding the Greatest Common Divisor (GCD)
+### 10. Checking Whether a Number is a Strong Number
 
 **Difficulty**: Easy  
-**Topics**: Basic Programming, Number Theory
+**Topics**: Number Manipulation, Loops
 
-**Description**: Write a program to find the GCD of two numbers.
+**Description**: A strong number is a number in which the sum of the factorials of its digits is equal to the number itself.
 
 **Example**:
-- Input: `a = 48, b = 18`
-- Output: `6`
-- Explanation: The GCD of 48 and 18 is 6.
+- 145 → 1! + 4! + 5! = 145
 
 ---
 
-### 11. Finding the Least Common Multiple (LCM)
+### 11. Counting the Frequency of Each Character in a String
 
 **Difficulty**: Easy  
-**Topics**: Basic Programming, Number Theory
+**Topics**: Strings, Looping, Character Processing
 
-**Description**: Write a program to find the LCM of two numbers.
+**Description**: Write a program to count how many times each character appears in a given string.
 
 **Example**:
-- Input: `a = 12, b = 15`
-- Output: `60`
-- Explanation: The LCM of 12 and 15 is 60.
+Input: "hello"
+
+Output:
+
+h → 1  
+e → 1  
+l → 2  
+o → 1
 
 ---
 
