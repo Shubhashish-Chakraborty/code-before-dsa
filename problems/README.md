@@ -12,9 +12,9 @@ This is the complete list of problems in the **Code Before DSA** series. Each pr
 | 4 | Calculating Armstrong Numbers | [View Problem](#4-calculating-armstrong-numbers) | **[C++](../solutions/cpp/004_armstrong.cpp)** , **[C](../solutions/c/004_armstrongNumber.c)** , **[Python](../solutions/python/004_armstrong.py)** | [Watch](https://www.youtube.com/watch?v=6OA_q-j8BdI) |
 | 5 | Generating the Fibonacci Series | [View Problem](#5-generating-the-fibonacci-series) | **[C++](../solutions/cpp/005_fibonacci.cpp)** | [Watch](https://youtu.be/P_qxcuLh6qo) |
 | 6 | Identifying Palindromes | [View Problem](#6-identifying-palindromes) | **[C++](../solutions/cpp/006_pallindrome.cpp)** | [Watch](https://youtu.be/953kmSzNtQo?si=ndPAQH7Z_7y1BI1P) |
-| 7 | Summing Digits of a Number | [View Problem](#7-summing-digits-of-a-number) | **[C++](../solutions/cpp/007_summingDigits.cpp)** | [Watch](https://youtube.com/@shubhdevs) |
-| 8 | Finding the Factorial of a Number | [View Problem](#8-finding-the-factorial-of-a-number) | **[C++](../solutions/cpp/008_factorial.cpp)** | [Watch](https://youtube.com/@shubhdevs) |
-| 9 | Swap Two Numbers With & Without Using a Third Variable | [View Problem](#9-swap-two-numbers-with--without-using-a-third-variable) | **[C++](../solutions/cpp/009_swapnumbers.cpp)** | [Watch](https://youtube.com/@shubhdevs) |
+| 7 | Summing Digits of a Number | [View Problem](#7-summing-digits-of-a-number) | **[C++](../solutions/cpp/007_summingDigits.cpp)** | [Watch](https://youtu.be/q9ybtJlvfbs) |
+| 8 | Finding the Factorial of a Number | [View Problem](#8-finding-the-factorial-of-a-number) | **[C++](../solutions/cpp/008_factorial.cpp)** | [Watch](https://youtu.be/d1VtYqfsEbo) |
+| 9 | Swap Two Numbers With & Without Using a Third Variable | [View Problem](#9-swap-two-numbers-with--without-using-a-third-variable) | **[C++](../solutions/cpp/009_swapnumbers.cpp)** | [Watch](https://youtu.be/CQuC-L2iWK4) |
 | 10 | Checking Whether a Number is a Strong Number | [View Problem](#10-checking-whether-a-number-is-a-strong-number) |  | [Watch](https://youtube.com/@shubhdevs) |
 | 11 | Counting the Frequency of Each Character in a String | [View Problem](#11-counting-the-frequency-of-each-character-in-a-string) |  | [Watch](https://youtube.com/@shubhdevs) |
 | 12 | Counting Vowels and Consonants in a String | [View Problem](#12-counting-vowels-and-consonants-in-a-string) |  | [Watch](https://youtube.com/@shubhdevs) |
