@@ -1,13 +1,15 @@
-const isArmstrong = (number) => {
-    let temp = number;
-    // calculating number of digitss...
-    let numberOfDigits = 0;
+const countDigits = (number) => {
+    let temp = number
+    let numofdigits = 0;
     while (temp > 0) {
-        numberOfDigits+=1;
+        numofdigits += 1;
         temp = Math.floor(temp / 10);
     }
-    temp = number;
-    // check armstrong
+    return numofdigits;
+}
+const isArmstrong = (number) => {
+    let temp = number;
+    let numberOfDigits = countDigits(number);
     let sum = 0;
     while (temp > 0) {
         let digit = temp % 10;
@@ -22,7 +24,7 @@ const isArmstrong = (number) => {
 }
 
 function main() {
-    const number = 1533;
+    const number = 153;
     if (isArmstrong(number)) {
         console.log(`${number} is an ARMSTRONG NUMBER!`)
     } else {
