@@ -1,4 +1,4 @@
-#include <bits/stdc++.h>
+#include <iostream>
 using namespace std;
 
 int main() {
@@ -25,9 +25,9 @@ int main() {
     }
 
     if (sum == number) {
-        cout << number << " is AN ARMSTRONG NUMBER!!";
+        cout << number << " is AN ARMSTRONG NUMBER!!" << endl;
     } else {
-        cout << number << " is NOT AN ARMSTRONG NUMBER!!!!";
+        cout << number << " is NOT AN ARMSTRONG NUMBER!!!!" << endl;
     }
 
     return 0;
