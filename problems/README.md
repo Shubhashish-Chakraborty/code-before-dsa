@@ -18,7 +18,7 @@ This is the complete list of problems in the **Code Before DSA** series. Each pr
 | 10 | Checking Whether a Number is a Strong Number | [View Problem](#10-checking-whether-a-number-is-a-strong-number) | **[C++](../solutions/cpp/010_strongNumber.cpp)** | [Watch](https://youtu.be/e0wKUhoChew) |
 | 11 | Counting the Frequency of Each Character in a String | [View Problem](#11-counting-the-frequency-of-each-character-in-a-string) | **[C++](../solutions/cpp/011_frequency.cpp)** | [Watch](https://youtu.be/RV72c3bPHKI) |
 | 12 | Counting Vowels and Consonants in a String | [View Problem](#12-counting-vowels-and-consonants-in-a-string) | **[C++](../solutions/cpp/012_vowelConsonants.cpp)** | [Watch](https://youtu.be/1y_kYEuy-Hc) |
-| 13 | Reversing a String | [View Problem](#13-reversing-a-string) |  | [Watch](https://youtube.com/@shubhdevs) |
+| 13 | Reversing a String | [View Problem](#13-reversing-a-string) | **[C++](../solutions/cpp/013_reverseString.cpp)** | [Watch](https://youtube.com/@shubhdevs) |
 | 14 | Finding the Largest and Smallest Numbers in an Array | [View Problem](#14-finding-the-largest-and-smallest-numbers-in-an-array) |  | [Watch](https://youtube.com/@shubhdevs) |
 | 15 | Sorting an Array | [View Problem](#15-sorting-an-array) |  | [Watch](https://youtube.com/@shubhdevs) |
 | 16 | Finding the Sum of Elements in an Array | [View Problem](#16-finding-the-sum-of-elements-in-an-array) |  | [Watch](https://youtube.com/@shubhdevs) |
