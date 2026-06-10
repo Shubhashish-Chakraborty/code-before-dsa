@@ -20,9 +20,9 @@ This is the complete list of problems in the **Code Before DSA** series. Each pr
 | 12 | Counting Vowels and Consonants in a String | [View Problem](#12-counting-vowels-and-consonants-in-a-string) | **[C++](../solutions/cpp/012_vowelConsonants.cpp)** | [Watch](https://youtu.be/1y_kYEuy-Hc) |
 | 13 | Reversing a String | [View Problem](#13-reversing-a-string) | **[C++](../solutions/cpp/013_reverseString.cpp)** | [Watch](https://youtube.com/@shubhdevs) |
 | 14 | Finding the Largest and Smallest Numbers in an Array | [View Problem](#14-finding-the-largest-and-smallest-numbers-in-an-array) | **[C++](../solutions/cpp/014_largestSmallestArray.cpp)** | [Watch](https://youtube.com/@shubhdevs) |
-| 15 | Sorting an Array | [View Problem](#15-sorting-an-array) |  | [Watch](https://youtube.com/@shubhdevs) |
-| 16 | Finding the Sum of Elements in an Array | [View Problem](#16-finding-the-sum-of-elements-in-an-array) |  | [Watch](https://youtube.com/@shubhdevs) |
-| 17 | Checking for Armstrong Numbers in a Range | [View Problem](#17-checking-for-armstrong-numbers-in-a-range) |  | [Watch](https://youtube.com/@shubhdevs) |
+| 15 | Sorting an Array | [View Problem](#15-sorting-an-array) | **[C++](../solutions/cpp/015_sortingAscending.cpp)** | [Watch](https://youtube.com/@shubhdevs) |
+| 16 | Finding the Sum of Elements in an Array | [View Problem](#16-finding-the-sum-of-elements-in-an-array) | **[C++](../solutions/cpp/016_sumOfArr.cpp)** | [Watch](https://youtube.com/@shubhdevs) |
+| 17 | Checking for Armstrong Numbers in a Range | [View Problem](#17-checking-for-armstrong-numbers-in-a-range) | **[C++](../solutions/cpp/017_rangeArmstrong.cpp)** | [Watch](https://youtube.com/@shubhdevs) |
 | 18 | Generating Multiplication Tables | [View Problem](#18-generating-multiplication-tables) |  | [Watch](https://youtube.com/@shubhdevs) |
 | 19 | Finding Prime Numbers in a Range | [View Problem](#19-finding-prime-numbers-in-a-range) |  | [Watch](https://youtube.com/@shubhdevs) |
 | 20 | Checking for Perfect Numbers | [View Problem](#20-checking-for-perfect-numbers) |  | [Watch](https://youtube.com/@shubhdevs) |
