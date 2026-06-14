@@ -25,9 +25,9 @@ This is the complete list of problems in the **Code Before DSA** series. Each pr
 | 17 | Checking for Armstrong Numbers in a Range | [View Problem](#17-checking-for-armstrong-numbers-in-a-range) | **[C++](../solutions/cpp/017_rangeArmstrong.cpp)** | [Watch](https://youtube.com/@shubhdevs) |
 | 18 | Generating Multiplication Tables | [View Problem](#18-generating-multiplication-tables) |  | [Watch](https://youtube.com/@shubhdevs) |
 | 19 | Finding Prime Numbers in a Range | [View Problem](#19-finding-prime-numbers-in-a-range) |  | [Watch](https://youtube.com/@shubhdevs) |
-| 20 | Checking for Perfect Numbers | [View Problem](#20-checking-for-perfect-numbers) |  | [Watch](https://youtube.com/@shubhdevs) |
-| 21 | Calculating the Sum of Even Numbers in a Range | [View Problem](#21-calculating-the-sum-of-even-numbers-in-a-range) |  | [Watch](https://youtube.com/@shubhdevs) |
-| 22 | Calculating the Sum of Odd Numbers in a Range | [View Problem](#22-calculating-the-sum-of-odd-numbers-in-a-range) |  | [Watch](https://youtube.com/@shubhdevs) |
+| 20 | Calculating the Sum of Even Numbers in a Range | [View Problem](#20-calculating-the-sum-of-even-numbers-in-a-range) |  | [Watch](https://youtube.com/@shubhdevs) |
+| 21 | Calculating the Sum of Odd Numbers in a Range | [View Problem](#21-calculating-the-sum-of-odd-numbers-in-a-range) |  | [Watch](https://youtube.com/@shubhdevs) |
+| 22 | Checking for Perfect Numbers | [View Problem](#22-checking-for-perfect-numbers) |  | [Watch](https://youtube.com/@shubhdevs) |
 | 23 | Finding the Fibonacci Number at a Specific Position | [View Problem](#23-finding-the-fibonacci-number-at-a-specific-position) |  | [Watch](https://youtube.com/@shubhdevs) |
 | 24 | Printing Prime Numbers Less Than a Given Number | [View Problem](#24-printing-prime-numbers-less-than-a-given-number) |  | [Watch](https://youtube.com/@shubhdevs) |
 | 25 | Finding the Number of Digits in a Number | [View Problem](#25-finding-the-number-of-digits-in-a-number) |  | [Watch](https://youtube.com/@shubhdevs) |
@@ -438,21 +438,7 @@ o → 1
 
 ---
 
-### 20. Checking for Perfect Numbers
-
-**Difficulty**: Easy  
-**Topics**: Basic Programming, Number Theory
-
-**Description**: Write a program to determine if a number is a perfect number.
-
-**Example**:
-- Input: `number = 28`
-- Output: `Perfect Number`
-- Explanation: 28 is a perfect number because its divisors (1, 2, 4, 7, 14) sum up to 28.
-
----
-
-### 21. Calculating the Sum of Even Numbers in a Range
+### 20. Calculating the Sum of Even Numbers in a Range
 
 **Difficulty**: Easy  
 **Topics**: Basic Programming, Mathematical Computations
@@ -466,7 +452,7 @@ o → 1
 
 ---
 
-### 22. Calculating the Sum of Odd Numbers in a Range
+### 21. Calculating the Sum of Odd Numbers in a Range
 
 **Difficulty**: Easy  
 **Topics**: Basic Programming, Mathematical Computations
@@ -477,6 +463,20 @@ o → 1
 - Input: `range = [1, 10]`
 - Output: `25`
 - Explanation: The sum of odd numbers between 1 and 10 is 1 + 3 + 5 + 7 + 9 = 25.
+
+---
+
+### 22. Checking for Perfect Numbers
+
+**Difficulty**: Easy  
+**Topics**: Basic Programming, Number Theory
+
+**Description**: Write a program to determine if a number is a perfect number.
+
+**Example**:
+- Input: `number = 28`
+- Output: `Perfect Number`
+- Explanation: 28 is a perfect number because its divisors (1, 2, 4, 7, 14) sum up to 28.
 
 ---
 
