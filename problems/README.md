@@ -6,36 +6,36 @@ This is the complete list of problems in the **Code Before DSA** series. Each pr
 
 | No. | Problem Name | Problem Link | Solution | YouTube Explanation Video |
 |-----|--------------|--------------|----------|---------------|
-| 1 | Determining Even/Odd Numbers | [View Problem](#1-determining-evenodd-numbers) | **[C++](../solutions/cpp/001_evenOdd.cpp)** , **[C](../solutions/c/001_evenOdd.c)** , **[Python](../solutions/python/001_evenOdd.py)** | [Watch](https://youtu.be/pQdXKbg9Bg0) |
-| 2 | Checking for Prime Numbers | [View Problem](#2-checking-for-prime-numbers) | **[C++](../solutions/cpp/002_primenumber.cpp)** | [Watch](https://www.youtube.com/watch?v=AgPzY1PMWfk) |
+| 1 | Determining Even/Odd Numbers | [View Problem](#1-determining-evenodd-numbers) | **[C](../solutions/c/001_evenOdd.c)** , **[C++](../solutions/cpp/001_evenOdd.cpp)** , **[js](../solutions/js/001_evenOdd.js)** , **[Python](../solutions/python/001_evenOdd.py)** | [Watch](https://youtu.be/pQdXKbg9Bg0) |
+| 2 | Checking for Prime Numbers | [View Problem](#2-checking-for-prime-numbers) | **[C++](../solutions/cpp/002_primenumber.cpp)** | [Watch](https://youtu.be/AgPzY1PMWfk) |
 | 3 | Validating Leap Years | [View Problem](#3-validating-leap-years) | **[C++](../solutions/cpp/003_leapyear.cpp)** | [Watch](https://youtu.be/bp9xWBtoLyY) |
-| 4 | Calculating Armstrong Numbers | [View Problem](#4-calculating-armstrong-numbers) | **[C++](../solutions/cpp/004_armstrong.cpp)** , **[C](../solutions/c/004_armstrongNumber.c)** , **[Python](../solutions/python/004_armstrong.py)** | [Watch](https://www.youtube.com/watch?v=6OA_q-j8BdI) |
+| 4 | Calculating Armstrong Numbers | [View Problem](#4-calculating-armstrong-numbers) | **[C](../solutions/c/004_armstrongNumber.c)** , **[C++](../solutions/cpp/004_armstrong.cpp)** , **[js](../solutions/js/004_armstrong.js)** , **[Python](../solutions/python/004_armstrong.py)** | [Watch](https://www.youtube.com/watch?v=6OA_q-j8BdI) |
 | 5 | Generating the Fibonacci Series | [View Problem](#5-generating-the-fibonacci-series) | **[C++](../solutions/cpp/005_fibonacci.cpp)** | [Watch](https://youtu.be/P_qxcuLh6qo) |
-| 6 | Identifying Palindromes | [View Problem](#6-identifying-palindromes) | **[C++](../solutions/cpp/006_pallindrome.cpp)** | [Watch](https://youtu.be/953kmSzNtQo?si=ndPAQH7Z_7y1BI1P) |
+| 6 | Identifying Palindromes | [View Problem](#6-identifying-palindromes) | **[C++](../solutions/cpp/006_pallindrome.cpp)** , **[Python](../solutions/python/006_pallindrome.py)** | [Watch](https://youtu.be/953kmSzNtQo?si=ndPAQH7Z_7y1BI1P) |
 | 7 | Summing Digits of a Number | [View Problem](#7-summing-digits-of-a-number) | **[C++](../solutions/cpp/007_summingDigits.cpp)** | [Watch](https://youtu.be/q9ybtJlvfbs) |
-| 8 | Finding the Factorial of a Number | [View Problem](#8-finding-the-factorial-of-a-number) | **[C++](../solutions/cpp/008_factorial.cpp)** | [Watch](https://youtu.be/d1VtYqfsEbo) |
+| 8 | Finding the Factorial of a Number | [View Problem](#8-finding-the-factorial-of-a-number) | **[C](../solutions/c/008_factorial.c)** , **[C++](../solutions/cpp/008_factorial.cpp)** , **[js](../solutions/js/008_factorial.js)** , **[Python](../solutions/python/008_factorial.py)** | [Watch](https://youtu.be/d1VtYqfsEbo) |
 | 9 | Swap Two Numbers With & Without Using a Third Variable | [View Problem](#9-swap-two-numbers-with--without-using-a-third-variable) | **[C++](../solutions/cpp/009_swapnumbers.cpp)** | [Watch](https://youtu.be/CQuC-L2iWK4) |
 | 10 | Checking Whether a Number is a Strong Number | [View Problem](#10-checking-whether-a-number-is-a-strong-number) | **[C++](../solutions/cpp/010_strongNumber.cpp)** | [Watch](https://youtu.be/e0wKUhoChew) |
 | 11 | Counting the Frequency of Each Character in a String | [View Problem](#11-counting-the-frequency-of-each-character-in-a-string) | **[C++](../solutions/cpp/011_frequency.cpp)** | [Watch](https://youtu.be/RV72c3bPHKI) |
-| 12 | Counting Vowels and Consonants in a String | [View Problem](#12-counting-vowels-and-consonants-in-a-string) | **[C++](../solutions/cpp/012_vowelConsonants.cpp)** | [Watch](https://youtu.be/1y_kYEuy-Hc) |
-| 13 | Reversing a String | [View Problem](#13-reversing-a-string) | **[C++](../solutions/cpp/013_reverseString.cpp)** | [Watch](https://youtube.com/@shubhdevs) |
-| 14 | Finding the Largest and Smallest Numbers in an Array | [View Problem](#14-finding-the-largest-and-smallest-numbers-in-an-array) | **[C++](../solutions/cpp/014_largestSmallestArray.cpp)** | [Watch](https://youtube.com/@shubhdevs) |
-| 15 | Sorting an Array | [View Problem](#15-sorting-an-array) | **[C++](../solutions/cpp/015_sortingAscending.cpp)** | [Watch](https://youtube.com/@shubhdevs) |
-| 16 | Finding the Sum of Elements in an Array | [View Problem](#16-finding-the-sum-of-elements-in-an-array) | **[C++](../solutions/cpp/016_sumOfArr.cpp)** | [Watch](https://youtube.com/@shubhdevs) |
-| 17 | Checking for Armstrong Numbers in a Range | [View Problem](#17-checking-for-armstrong-numbers-in-a-range) | **[C++](../solutions/cpp/017_rangeArmstrong.cpp)** | [Watch](https://youtube.com/@shubhdevs) |
-| 18 | Generating Multiplication Tables | [View Problem](#18-generating-multiplication-tables) |  | [Watch](https://youtube.com/@shubhdevs) |
-| 19 | Finding Prime Numbers in a Range | [View Problem](#19-finding-prime-numbers-in-a-range) |  | [Watch](https://youtube.com/@shubhdevs) |
-| 20 | Calculating the Sum of Even and Odd Numbers in a Range | [View Problem](#20-calculating-the-sum-of-even-and-odd-numbers-in-a-range) |  | [Watch](https://youtube.com/@shubhdevs) |
-| 21 | Calculating the Sum of Prime Numbers in a Range | [View Problem](#21-calculating-the-sum-of-prime-numbers-in-a-range) |  | [Watch](https://youtube.com/@shubhdevs) |
-| 22 | Checking for Perfect Numbers | [View Problem](#22-checking-for-perfect-numbers) |  | [Watch](https://youtube.com/@shubhdevs) |
-| 23 | Finding the Fibonacci Number at a Specific Position | [View Problem](#23-finding-the-fibonacci-number-at-a-specific-position) |  | [Watch](https://youtube.com/@shubhdevs) |
-| 24 | Printing Prime Numbers Less Than a Given Number | [View Problem](#24-printing-prime-numbers-less-than-a-given-number) |  | [Watch](https://youtube.com/@shubhdevs) |
-| 25 | Finding the Number of Digits in a Number | [View Problem](#25-finding-the-number-of-digits-in-a-number) |  | [Watch](https://youtube.com/@shubhdevs) |
-| 26 | Checking if a Number is a Narcissistic Number | [View Problem](#26-checking-if-a-number-is-a-narcissistic-number) |  | [Watch](https://youtube.com/@shubhdevs) |
-| 27 | Generating a Pattern of Numbers | [View Problem](#27-generating-a-pattern-of-numbers) |  | [Watch](https://youtube.com/@shubhdevs) |
-| 28 | Finding the Sum of the Digits of the Factorial of a Number | [View Problem](#28-finding-the-sum-of-the-digits-of-the-factorial-of-a-number) |  | [Watch](https://youtube.com/@shubhdevs) |
+| 12 | Counting Vowels and Consonants in a String | [View Problem](#12-counting-vowels-and-consonants-in-a-string) | **[C++](../solutions/cpp/012_vowelConsonants.cpp)** , **[Python](../solutions/python/012_vowelConsonant.py)** | [Watch](https://youtu.be/1y_kYEuy-Hc) |
+| 13 | Reversing a String | [View Problem](#13-reversing-a-string) | **[C++](../solutions/cpp/013_reverseString.cpp)** , **[Python](../solutions/python/013_reverseString.py)** | [Watch](https://youtu.be/noiT5F1Qtdc) |
+| 14 | Finding the Largest and Smallest Numbers in an Array | [View Problem](#14-finding-the-largest-and-smallest-numbers-in-an-array) | **[C++](../solutions/cpp/014_largestSmallestArray.cpp)** | [Watch](https://youtu.be/KVb7pFi3iWI) |
+| 15 | Sorting an Array | [View Problem](#15-sorting-an-array) | **[C++](../solutions/cpp/015_sortingAscending.cpp)** | [Watch](https://youtu.be/TmPKBzbYvIM) |
+| 16 | Finding the Sum of Elements in an Array | [View Problem](#16-finding-the-sum-of-elements-in-an-array) | **[C++](../solutions/cpp/016_sumOfArr.cpp)** | [Watch](https://youtu.be/zeCa07XrN60) |
+| 17 | Checking for Armstrong Numbers in a Range | [View Problem](#17-checking-for-armstrong-numbers-in-a-range) | **[C++](../solutions/cpp/017_rangeArmstrong.cpp)** | [Watch](https://youtu.be/9XWy_a9v2RI) |
+| 18 | Generating Multiplication Tables | [View Problem](#18-generating-multiplication-tables) | **[C++](../solutions/cpp/018_multiplicationTable.cpp)** | [Watch](https://youtu.be/_K9tsJjNuAY) |
+| 19 | Finding Prime Numbers in a Range | [View Problem](#19-finding-prime-numbers-in-a-range) | **[C++](../solutions/cpp/019_rangePrimeNumber.cpp)** | [Watch](https://youtu.be/lDYIckxdseM) |
+| 20 | Calculating the Sum of Even and Odd Numbers in a Range | [View Problem](#20-calculating-the-sum-of-even-and-odd-numbers-in-a-range) | **[C++](../solutions/cpp/020_rangeEvenOdd.cpp)** | [Watch](https://youtu.be/MRD9CEtpHRg) |
+| 21 | Calculating the Sum of Prime Numbers in a Range | [View Problem](#21-calculating-the-sum-of-prime-numbers-in-a-range) | **[C++](../solutions/cpp/021_rangePrimeSum.cpp)** | [Watch](https://youtu.be/Tu5K5EXABjs) |
+| 22 | Checking for Perfect Numbers | [View Problem](#22-checking-for-perfect-numbers) | **[C++](../solutions/cpp/022_perfectNumber.cpp)** | [Watch](https://youtu.be/1L6FFuzeQpg) |
+| 23 | Finding the Fibonacci Number at a Specific Position | [View Problem](#23-finding-the-fibonacci-number-at-a-specific-position) | **[C++](../solutions/cpp/023_fibonacciAtPosition.cpp)** | [Watch](https://youtu.be/GY2pzvQ_F2I) |
+| 24 | Printing Prime Numbers Less Than a Given Number | [View Problem](#24-printing-prime-numbers-less-than-a-given-number) | **[C++](../solutions/cpp/024_primeNumbersLessThanAGivenNumber.cpp)** | [Watch](https://youtube.com/@shubhdevs) |
+| 25 | Finding the Number of Digits in a Number | [View Problem](#25-finding-the-number-of-digits-in-a-number) | **[C++](../solutions/cpp/025_numberOfDigits.cpp)** | [Watch](https://youtube.com/@shubhdevs) |
+| 26 | Checking if a Number is a Narcissistic Number | [View Problem](#26-checking-if-a-number-is-a-narcissistic-number) | **[C++](../solutions/cpp/026_NarcissisticNumber.cpp)** | [Watch](https://youtube.com/@shubhdevs) |
+| 27 | Generating a Pattern of Numbers | [View Problem](#27-generating-a-pattern-of-numbers) | **[C++](../solutions/cpp/027_NumberPattern.cpp)** | [Watch](https://youtube.com/@shubhdevs) |
+| 28 | Finding the Sum of the Digits of the Factorial of a Number | [View Problem](#28-finding-the-sum-of-the-digits-of-the-factorial-of-a-number) | **[C++](../solutions/cpp/028_factorialSum.cpp)** | [Watch](https://youtube.com/@shubhdevs) |
 | 29 | Finding the Largest Palindrome in a String | [View Problem](#29-finding-the-largest-palindrome-in-a-string) |  | [Watch](https://youtube.com/@shubhdevs) |
-| 30 | Finding Missing Numbers in a Sequence | [View Problem](#30-finding-missing-numbers-in-a-sequence) |  | [Watch](https://youtube.com/@shubhdevs) |
+| 30 | Finding Missing Numbers in a Sequence | [View Problem](#30-finding-missing-numbers-in-a-sequence) | **[C++](../solutions/cpp/030_missingSequenceNumber.cpp)** | [Watch](https://youtube.com/@shubhdevs) |
 | 31 | Generating a Pascal's Triangle | [View Problem](#31-generating-a-pascals-triangle) |  | [Watch](https://youtube.com/@shubhdevs) |
 | 32 | Finding the Median of an Array | [View Problem](#32-finding-the-median-of-an-array) |  | [Watch](https://youtube.com/@shubhdevs) |
 | 33 | Calculating the Power of a Number | [View Problem](#33-calculating-the-power-of-a-number) |  | [Watch](https://youtube.com/@shubhdevs) |

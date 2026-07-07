@@ -1,0 +1,25 @@
+{
+  "name": "code-before-dsa",
+  "version": "1.0.0",
+  "description": "> 🚀 **Strengthen your logic, problem-solving, and programming fundamentals before diving into DATA STRUCTURE & ALGORITHMS!**",
+  "main": "index.js",
+  "scripts": {
+    "update-table": "node scripts/updateTable.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shubhashish-Chakraborty/code-before-dsa.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Shubhashish-Chakraborty/code-before-dsa/issues"
+  },
+  "homepage": "https://github.com/Shubhashish-Chakraborty/code-before-dsa#readme",
+  "dependencies": {
+    "dotenv": "^17.4.2",
+    "googleapis": "^173.0.0"
+  }
+}
