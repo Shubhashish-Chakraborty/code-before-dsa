@@ -1,0 +1,46 @@
+name: Update Problem Table
+
+on:
+  push:
+    paths:
+      - 'solutions/**'
+      - 'scripts/updateTable.js'
+      - 'package.json'
+      - 'problems/README.md'
+      - '.github/workflows/update-readme.yml'
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-table:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Install Dependencies
+        run: npm install
+
+      - name: Run Generator Script
+        env:
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+          PLAYLIST_ID: ${{ secrets.PLAYLIST_ID }}
+        run: npm run update-table
+
+      - name: Commit and Push Changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "docs: auto-update solutions and youtube links in README"
+          file_pattern: 'problems/README.md'
